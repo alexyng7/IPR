@@ -1,0 +1,724 @@
+"Linux 3,10,0-1160,76,1,el7,x86_64 (lt-uxcrowd,ru) 	05/07/2024 	_x86_64_	(6 CPU)";;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+07:57:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:57:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:57:16 AM    dev8-0      1,50      0,00     32,00     21,33      0,00      1,00      0,60      0,09;;;;;;;;;;7:57:16;AM;dev8-0;1,5;0;32;21,33;0;1;0,6;0,09
+;;;;;;;;;;;;;;;;;;;;
+07:57:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:57:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:57:26 AM    dev8-0      1,90      0,00     44,00     23,16      0,00      2,32      2,00      0,38;;;;;;;;;;7:57:26;AM;dev8-0;1,9;0;44;23,16;0;2,32;2;0,38
+;;;;;;;;;;;;;;;;;;;;
+07:57:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:57:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:57:36 AM    dev8-0      0,90      0,00     26,40     29,33      0,00      0,56      0,44      0,04;;;;;;;;;;7:57:36;AM;dev8-0;0,9;0;26,4;29,33;0;0,56;0,44;0,04
+;;;;;;;;;;;;;;;;;;;;
+07:57:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:57:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:57:46 AM    dev8-0      2,80      0,00     49,60     17,71      0,01      3,11      1,75      0,49;;;;;;;;;;7:57:46;AM;dev8-0;2,8;0;49,6;17,71;0,01;3,11;1,75;0,49
+;;;;;;;;;;;;;;;;;;;;
+07:57:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:57:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:57:56 AM    dev8-0      1,70      0,00     30,40     17,88      0,01      3,65      2,47      0,42;;;;;;;;;;7:57:56;AM;dev8-0;1,7;0;30,4;17,88;0,01;3,65;2,47;0,42
+;;;;;;;;;;;;;;;;;;;;
+07:57:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:57:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:58:06 AM    dev8-0      2,10      0,00     56,80     27,05      0,01      3,48      1,57      0,33;;;;;;;;;;7:58:06;AM;dev8-0;2,1;0;56,8;27,05;0,01;3,48;1,57;0,33
+;;;;;;;;;;;;;;;;;;;;
+07:58:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:58:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:58:16 AM    dev8-0      5,20      0,00     88,80     17,08      0,01      1,83      0,71      0,37;;;;;;;;;;7:58:16;AM;dev8-0;5,2;0;88,8;17,08;0,01;1,83;0,71;0,37
+;;;;;;;;;;;;;;;;;;;;
+07:58:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:58:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:58:26 AM    dev8-0      1,90      0,00     36,00     18,95      0,00      1,16      0,84      0,16;;;;;;;;;;7:58:26;AM;dev8-0;1,9;0;36;18,95;0;1,16;0,84;0,16
+;;;;;;;;;;;;;;;;;;;;
+07:58:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:58:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:58:36 AM    dev8-0      1,60      0,00     33,60     21,00      0,00      0,94      0,56      0,09;;;;;;;;;;7:58:36;AM;dev8-0;1,6;0;33,6;21;0;0,94;0,56;0,09
+;;;;;;;;;;;;;;;;;;;;
+07:58:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:58:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:58:46 AM    dev8-0      1,50      0,00     33,60     22,40      0,01      3,93      3,27      0,49;;;;;;;;;;7:58:46;AM;dev8-0;1,5;0;33,6;22,4;0,01;3,93;3,27;0,49
+;;;;;;;;;;;;;;;;;;;;
+07:58:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:58:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:58:56 AM    dev8-0      2,40      0,00     28,80     12,00      0,00      1,38      0,54      0,13;;;;;;;;;;7:58:56;AM;dev8-0;2,4;0;28,8;12;0;1,38;0,54;0,13
+;;;;;;;;;;;;;;;;;;;;
+07:58:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:58:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:59:06 AM    dev8-0      1,90      0,00     39,20     20,63      0,00      1,00      0,68      0,13;;;;;;;;;;7:59:06;AM;dev8-0;1,9;0;39,2;20,63;0;1;0,68;0,13
+;;;;;;;;;;;;;;;;;;;;
+07:59:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:59:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:59:16 AM    dev8-0      1,80      0,00     36,00     20,00      0,00      0,72      0,50      0,09;;;;;;;;;;7:59:16;AM;dev8-0;1,8;0;36;20;0;0,72;0,5;0,09
+;;;;;;;;;;;;;;;;;;;;
+07:59:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:59:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:59:26 AM    dev8-0      2,20      0,00     43,20     19,64      0,00      1,45      1,23      0,27;;;;;;;;;;7:59:26;AM;dev8-0;2,2;0;43,2;19,64;0;1,45;1,23;0,27
+;;;;;;;;;;;;;;;;;;;;
+07:59:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:59:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:59:36 AM    dev8-0      1,30      0,00     24,80     19,08      0,00      0,85      0,54      0,07;;;;;;;;;;7:59:36;AM;dev8-0;1,3;0;24,8;19,08;0;0,85;0,54;0,07
+;;;;;;;;;;;;;;;;;;;;
+07:59:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:59:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:59:46 AM    dev8-0      1,50      0,00     32,77     21,87      0,00      2,27      2,13      0,32;;;;;;;;;;7:59:46;AM;dev8-0;1,5;0;32,77;21,87;0;2,27;2,13;0,32
+;;;;;;;;;;;;;;;;;;;;
+07:59:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:59:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+07:59:56 AM    dev8-0      3,10      0,00     48,00     15,48      0,01      1,65      0,39      0,12;;;;;;;;;;7:59:56;AM;dev8-0;3,1;0;48;15,48;0,01;1,65;0,39;0,12
+;;;;;;;;;;;;;;;;;;;;
+07:59:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;7:59:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:00:06 AM    dev8-0      2,30      0,00     60,00     26,09      0,00      1,09      0,70      0,16;;;;;;;;;;8:00:06;AM;dev8-0;2,3;0;60;26,09;0;1,09;0,7;0,16
+;;;;;;;;;;;;;;;;;;;;
+08:00:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:00:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:00:16 AM    dev8-0      1,30      0,00     27,20     20,92      0,00      1,08      1,00      0,13;;;;;;;;;;8:00:16;AM;dev8-0;1,3;0;27,2;20,92;0;1,08;1;0,13
+;;;;;;;;;;;;;;;;;;;;
+08:00:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:00:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:00:26 AM    dev8-0      1,60      0,00     32,80     20,50      0,00      0,69      0,69      0,11;;;;;;;;;;8:00:26;AM;dev8-0;1,6;0;32,8;20,5;0;0,69;0,69;0,11
+;;;;;;;;;;;;;;;;;;;;
+08:00:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:00:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:00:36 AM    dev8-0      4,10      0,00     56,80     13,85      0,01      2,78      0,61      0,25;;;;;;;;;;8:00:36;AM;dev8-0;4,1;0;56,8;13,85;0,01;2,78;0,61;0,25
+;;;;;;;;;;;;;;;;;;;;
+08:00:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:00:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:00:46 AM    dev8-0      1,40      0,00     35,20     25,14      0,00      0,79      0,57      0,08;;;;;;;;;;8:00:46;AM;dev8-0;1,4;0;35,2;25,14;0;0,79;0,57;0,08
+;;;;;;;;;;;;;;;;;;;;
+08:00:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:00:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:00:56 AM    dev8-0      1,30      0,00     20,80     16,00      0,00      1,15      1,15      0,15;;;;;;;;;;8:00:56;AM;dev8-0;1,3;0;20,8;16;0;1,15;1,15;0,15
+;;;;;;;;;;;;;;;;;;;;
+08:00:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:00:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:01:06 AM    dev8-0      4,10      0,00     64,00     15,61      0,01      1,68      0,37      0,15;;;;;;;;;;8:01:06;AM;dev8-0;4,1;0;64;15,61;0,01;1,68;0,37;0,15
+;;;;;;;;;;;;;;;;;;;;
+08:01:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:01:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:01:16 AM    dev8-0      1,90      0,00     40,00     21,05      0,00      0,74      0,63      0,12;;;;;;;;;;8:01:16;AM;dev8-0;1,9;0;40;21,05;0;0,74;0,63;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:01:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:01:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:01:26 AM    dev8-0      1,60      0,00     36,00     22,50      0,00      0,88      0,69      0,11;;;;;;;;;;8:01:26;AM;dev8-0;1,6;0;36;22,5;0;0,88;0,69;0,11
+;;;;;;;;;;;;;;;;;;;;
+08:01:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:01:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:01:36 AM    dev8-0      2,00      0,00     34,40     17,20      0,00      0,95      0,45      0,09;;;;;;;;;;8:01:36;AM;dev8-0;2;0;34,4;17,2;0;0,95;0,45;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:01:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:01:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:01:46 AM    dev8-0      3,50      0,00     52,80     15,09      0,01      2,20      0,80      0,28;;;;;;;;;;8:01:46;AM;dev8-0;3,5;0;52,8;15,09;0,01;2,2;0,8;0,28
+;;;;;;;;;;;;;;;;;;;;
+08:01:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:01:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:01:56 AM    dev8-0      1,90      0,00     43,20     22,74      0,00      0,84      0,58      0,11;;;;;;;;;;8:01:56;AM;dev8-0;1,9;0;43,2;22,74;0;0,84;0,58;0,11
+;;;;;;;;;;;;;;;;;;;;
+08:01:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:01:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:02:06 AM    dev8-0      1,90      0,00     43,20     22,74      0,00      1,68      1,37      0,26;;;;;;;;;;8:02:06;AM;dev8-0;1,9;0;43,2;22,74;0;1,68;1,37;0,26
+;;;;;;;;;;;;;;;;;;;;
+08:02:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:02:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:02:16 AM    dev8-0      2,80      0,00     43,20     15,43      0,01      3,71      1,86      0,52;;;;;;;;;;8:02:16;AM;dev8-0;2,8;0;43,2;15,43;0,01;3,71;1,86;0,52
+;;;;;;;;;;;;;;;;;;;;
+08:02:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:02:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:02:26 AM    dev8-0      1,70      0,00     35,20     20,71      0,00      0,88      0,76      0,13;;;;;;;;;;8:02:26;AM;dev8-0;1,7;0;35,2;20,71;0;0,88;0,76;0,13
+;;;;;;;;;;;;;;;;;;;;
+08:02:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:02:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:02:36 AM    dev8-0      1,90      0,00     37,60     19,79      0,00      0,84      0,53      0,10;;;;;;;;;;8:02:36;AM;dev8-0;1,9;0;37,6;19,79;0;0,84;0,53;0,1
+;;;;;;;;;;;;;;;;;;;;
+08:02:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:02:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:02:46 AM    dev8-0      1,30      0,00     32,00     24,62      0,00      1,08      0,92      0,12;;;;;;;;;;8:02:46;AM;dev8-0;1,3;0;32;24,62;0;1,08;0,92;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:02:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:02:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:02:56 AM    dev8-0      3,10      0,00     35,20     11,35      0,01      2,06      0,74      0,23;;;;;;;;;;8:02:56;AM;dev8-0;3,1;0;35,2;11,35;0,01;2,06;0,74;0,23
+;;;;;;;;;;;;;;;;;;;;
+08:02:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:02:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:03:06 AM    dev8-0      1,60      0,00     34,40     21,50      0,00      1,19      0,94      0,15;;;;;;;;;;8:03:06;AM;dev8-0;1,6;0;34,4;21,5;0;1,19;0,94;0,15
+;;;;;;;;;;;;;;;;;;;;
+08:03:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:03:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:03:16 AM    dev8-0      3,80      0,00     82,40     21,68      0,01      1,42      1,05      0,40;;;;;;;;;;8:03:16;AM;dev8-0;3,8;0;82,4;21,68;0,01;1,42;1,05;0,4
+;;;;;;;;;;;;;;;;;;;;
+08:03:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:03:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:03:26 AM    dev8-0      4,50      0,00     72,00     16,00      0,01      3,33      0,60      0,27;;;;;;;;;;8:03:26;AM;dev8-0;4,5;0;72;16;0,01;3,33;0,6;0,27
+;;;;;;;;;;;;;;;;;;;;
+08:03:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:03:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:03:36 AM    dev8-0      1,80      0,00     36,00     20,00      0,00      1,61      1,22      0,22;;;;;;;;;;8:03:36;AM;dev8-0;1,8;0;36;20;0;1,61;1,22;0,22
+;;;;;;;;;;;;;;;;;;;;
+08:03:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:03:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:03:46 AM    dev8-0      1,30      0,00     27,20     20,92      0,00      2,00      1,85      0,24;;;;;;;;;;8:03:46;AM;dev8-0;1,3;0;27,2;20,92;0;2;1,85;0,24
+;;;;;;;;;;;;;;;;;;;;
+08:03:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:03:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:03:56 AM    dev8-0      1,80      0,00     40,00     22,22      0,00      1,00      0,83      0,15;;;;;;;;;;8:03:56;AM;dev8-0;1,8;0;40;22,22;0;1;0,83;0,15
+;;;;;;;;;;;;;;;;;;;;
+08:03:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:03:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:04:06 AM    dev8-0      3,70      0,00     69,60     18,81      0,01      1,51      0,49      0,18;;;;;;;;;;8:04:06;AM;dev8-0;3,7;0;69,6;18,81;0,01;1,51;0,49;0,18
+;;;;;;;;;;;;;;;;;;;;
+08:04:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:04:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:04:16 AM    dev8-0      1,50      0,00     32,80     21,87      0,00      2,73      2,53      0,38;;;;;;;;;;8:04:16;AM;dev8-0;1,5;0;32,8;21,87;0;2,73;2,53;0,38
+;;;;;;;;;;;;;;;;;;;;
+08:04:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:04:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:04:26 AM    dev8-0      1,60      0,00     24,00     15,00      0,00      1,06      0,81      0,13;;;;;;;;;;8:04:26;AM;dev8-0;1,6;0;24;15;0;1,06;0,81;0,13
+;;;;;;;;;;;;;;;;;;;;
+08:04:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:04:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:04:36 AM    dev8-0      3,00      0,00     48,00     16,00      0,01      1,77      0,67      0,20;;;;;;;;;;8:04:36;AM;dev8-0;3;0;48;16;0,01;1,77;0,67;0,2
+;;;;;;;;;;;;;;;;;;;;
+08:04:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:04:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:04:46 AM    dev8-0      1,50      0,00     36,00     24,00      0,00      1,87      1,07      0,16;;;;;;;;;;8:04:46;AM;dev8-0;1,5;0;36;24;0;1,87;1,07;0,16
+;;;;;;;;;;;;;;;;;;;;
+08:04:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:04:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:04:56 AM    dev8-0      1,40      0,00     21,60     15,43      0,00      2,14      1,93      0,27;;;;;;;;;;8:04:56;AM;dev8-0;1,4;0;21,6;15,43;0;2,14;1,93;0,27
+;;;;;;;;;;;;;;;;;;;;
+08:04:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:04:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:05:06 AM    dev8-0      1,70      0,00     44,00     25,88      0,00      1,06      0,71      0,12;;;;;;;;;;8:05:06;AM;dev8-0;1,7;0;44;25,88;0;1,06;0,71;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:05:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:05:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:05:16 AM    dev8-0      3,40      0,00     52,80     15,53      0,02      5,12      0,91      0,31;;;;;;;;;;8:05:16;AM;dev8-0;3,4;0;52,8;15,53;0,02;5,12;0,91;0,31
+;;;;;;;;;;;;;;;;;;;;
+08:05:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:05:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:05:26 AM    dev8-0      1,60      0,00     39,20     24,50      0,00      1,50      1,12      0,18;;;;;;;;;;8:05:26;AM;dev8-0;1,6;0;39,2;24,5;0;1,5;1,12;0,18
+;;;;;;;;;;;;;;;;;;;;
+08:05:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:05:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:05:36 AM    dev8-0      1,30      0,00     26,40     20,31      0,00      1,00      0,77      0,10;;;;;;;;;;8:05:36;AM;dev8-0;1,3;0;26,4;20,31;0;1;0,77;0,1
+;;;;;;;;;;;;;;;;;;;;
+08:05:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:05:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:05:46 AM    dev8-0      2,80      0,00     43,20     15,43      0,01      2,32      0,86      0,24;;;;;;;;;;8:05:46;AM;dev8-0;2,8;0;43,2;15,43;0,01;2,32;0,86;0,24
+;;;;;;;;;;;;;;;;;;;;
+08:05:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:05:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:05:56 AM    dev8-0      1,90      0,00     43,20     22,74      0,00      0,74      0,63      0,12;;;;;;;;;;8:05:56;AM;dev8-0;1,9;0;43,2;22,74;0;0,74;0,63;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:05:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:05:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:06:06 AM    dev8-0      2,00      0,00     50,40     25,20      0,01      2,90      1,55      0,31;;;;;;;;;;8:06:06;AM;dev8-0;2;0;50,4;25,2;0,01;2,9;1,55;0,31
+;;;;;;;;;;;;;;;;;;;;
+08:06:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:06:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:06:16 AM    dev8-0      1,30      0,00     28,00     21,54      0,00      2,77      2,54      0,33;;;;;;;;;;8:06:16;AM;dev8-0;1,3;0;28;21,54;0;2,77;2,54;0,33
+;;;;;;;;;;;;;;;;;;;;
+08:06:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:06:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:06:26 AM    dev8-0      3,50      0,00     50,40     14,40      0,01      3,74      0,69      0,24;;;;;;;;;;8:06:26;AM;dev8-0;3,5;0;50,4;14,4;0,01;3,74;0,69;0,24
+;;;;;;;;;;;;;;;;;;;;
+08:06:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:06:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:06:36 AM    dev8-0      1,80      0,00     38,40     21,33      0,01      3,61      2,17      0,39;;;;;;;;;;8:06:36;AM;dev8-0;1,8;0;38,4;21,33;0,01;3,61;2,17;0,39
+;;;;;;;;;;;;;;;;;;;;
+08:06:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:06:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:06:46 AM    dev8-0      1,30      0,00     31,20     24,00      0,00      2,00      1,85      0,24;;;;;;;;;;8:06:46;AM;dev8-0;1,3;0;31,2;24;0;2;1,85;0,24
+;;;;;;;;;;;;;;;;;;;;
+08:06:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:06:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:06:56 AM    dev8-0      1,80      0,00     24,80     13,78      0,00      0,94      0,61      0,11;;;;;;;;;;8:06:56;AM;dev8-0;1,8;0;24,8;13,78;0;0,94;0,61;0,11
+;;;;;;;;;;;;;;;;;;;;
+08:06:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:06:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:07:06 AM    dev8-0      1,80      0,00     38,40     21,33      0,00      1,00      0,78      0,14;;;;;;;;;;8:07:06;AM;dev8-0;1,8;0;38,4;21,33;0;1;0,78;0,14
+;;;;;;;;;;;;;;;;;;;;
+08:07:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:07:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:07:16 AM    dev8-0      1,70      0,00     37,60     22,12      0,00      0,94      0,76      0,13;;;;;;;;;;8:07:16;AM;dev8-0;1,7;0;37,6;22,12;0;0,94;0,76;0,13
+;;;;;;;;;;;;;;;;;;;;
+08:07:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:07:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:07:26 AM    dev8-0      1,40      0,00     23,20     16,57      0,00      3,00      1,79      0,25;;;;;;;;;;8:07:26;AM;dev8-0;1,4;0;23,2;16,57;0;3;1,79;0,25
+;;;;;;;;;;;;;;;;;;;;
+08:07:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:07:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:07:36 AM    dev8-0      2,40      0,00     48,80     20,33      0,00      1,00      0,58      0,14;;;;;;;;;;8:07:36;AM;dev8-0;2,4;0;48,8;20,33;0;1;0,58;0,14
+;;;;;;;;;;;;;;;;;;;;
+08:07:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:07:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:07:46 AM    dev8-0      1,60      0,00     39,20     24,50      0,00      0,81      0,56      0,09;;;;;;;;;;8:07:46;AM;dev8-0;1,6;0;39,2;24,5;0;0,81;0,56;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:07:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:07:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:07:56 AM    dev8-0      1,90      0,00     41,60     21,89      0,00      0,68      0,58      0,11;;;;;;;;;;8:07:56;AM;dev8-0;1,9;0;41,6;21,89;0;0,68;0,58;0,11
+;;;;;;;;;;;;;;;;;;;;
+08:07:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:07:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:08:06 AM    dev8-0      3,90      0,00     64,00     16,41      0,01      1,85      0,46      0,18;;;;;;;;;;8:08:06;AM;dev8-0;3,9;0;64;16,41;0,01;1,85;0,46;0,18
+;;;;;;;;;;;;;;;;;;;;
+08:08:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:08:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:08:16 AM    dev8-0      3,50      0,00     74,40     21,26      0,01      2,23      1,74      0,61;;;;;;;;;;8:08:16;AM;dev8-0;3,5;0;74,4;21,26;0,01;2,23;1,74;0,61
+;;;;;;;;;;;;;;;;;;;;
+08:08:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:08:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:08:26 AM    dev8-0      1,90      0,00     36,80     19,37      0,00      1,00      0,74      0,14;;;;;;;;;;8:08:26;AM;dev8-0;1,9;0;36,8;19,37;0;1;0,74;0,14
+;;;;;;;;;;;;;;;;;;;;
+08:08:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:08:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:08:36 AM    dev8-0      1,70      0,00     35,20     20,71      0,00      0,94      0,59      0,10;;;;;;;;;;8:08:36;AM;dev8-0;1,7;0;35,2;20,71;0;0,94;0,59;0,1
+;;;;;;;;;;;;;;;;;;;;
+08:08:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:08:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:08:46 AM    dev8-0      3,50      0,00     58,40     16,69      0,01      2,03      0,46      0,16;;;;;;;;;;8:08:46;AM;dev8-0;3,5;0;58,4;16,69;0,01;2,03;0,46;0,16
+;;;;;;;;;;;;;;;;;;;;
+08:08:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:08:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:08:56 AM    dev8-0      1,20      0,00     21,60     18,00      0,00      0,92      0,75      0,09;;;;;;;;;;8:08:56;AM;dev8-0;1,2;0;21,6;18;0;0,92;0,75;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:08:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:08:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:09:06 AM    dev8-0      1,80      0,00     39,20     21,78      0,00      0,67      0,61      0,11;;;;;;;;;;8:09:06;AM;dev8-0;1,8;0;39,2;21,78;0;0,67;0,61;0,11
+;;;;;;;;;;;;;;;;;;;;
+08:09:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:09:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:09:16 AM    dev8-0      1,60      0,00     32,80     20,50      0,00      2,00      1,75      0,28;;;;;;;;;;8:09:16;AM;dev8-0;1,6;0;32,8;20,5;0;2;1,75;0,28
+;;;;;;;;;;;;;;;;;;;;
+08:09:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:09:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:09:26 AM    dev8-0      3,50      0,00     48,00     13,71      0,01      1,63      0,66      0,23;;;;;;;;;;8:09:26;AM;dev8-0;3,5;0;48;13,71;0,01;1,63;0,66;0,23
+;;;;;;;;;;;;;;;;;;;;
+08:09:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:09:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:09:36 AM    dev8-0      1,30      0,00     39,20     30,15      0,00      0,92      0,69      0,09;;;;;;;;;;8:09:36;AM;dev8-0;1,3;0;39,2;30,15;0;0,92;0,69;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:09:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:09:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:09:46 AM    dev8-0      1,50      0,00     32,00     21,33      0,00      2,27      2,07      0,31;;;;;;;;;;8:09:46;AM;dev8-0;1,5;0;32;21,33;0;2,27;2,07;0,31
+;;;;;;;;;;;;;;;;;;;;
+08:09:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:09:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:09:56 AM    dev8-0      2,90      0,00     45,60     15,72      0,00      1,31      0,41      0,12;;;;;;;;;;8:09:56;AM;dev8-0;2,9;0;45,6;15,72;0;1,31;0,41;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:09:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:09:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:10:06 AM    dev8-0      2,60      0,00     60,00     23,08      0,00      1,31      0,88      0,23;;;;;;;;;;8:10:06;AM;dev8-0;2,6;0;60;23,08;0;1,31;0,88;0,23
+;;;;;;;;;;;;;;;;;;;;
+08:10:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:10:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:10:16 AM    dev8-0      1,30      0,00     33,60     25,85      0,00      0,92      0,85      0,11;;;;;;;;;;8:10:16;AM;dev8-0;1,3;0;33,6;25,85;0;0,92;0,85;0,11
+;;;;;;;;;;;;;;;;;;;;
+08:10:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:10:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:10:26 AM    dev8-0      1,90      0,00     40,00     21,05      0,00      0,74      0,63      0,12;;;;;;;;;;8:10:26;AM;dev8-0;1,9;0;40;21,05;0;0,74;0,63;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:10:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:10:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:10:36 AM    dev8-0      4,20      0,00     56,00     13,33      0,01      1,69      0,29      0,12;;;;;;;;;;8:10:36;AM;dev8-0;4,2;0;56;13,33;0,01;1,69;0,29;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:10:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:10:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:10:46 AM    dev8-0      1,60      0,00     33,60     21,00      0,00      0,94      0,50      0,08;;;;;;;;;;8:10:46;AM;dev8-0;1,6;0;33,6;21;0;0,94;0,5;0,08
+;;;;;;;;;;;;;;;;;;;;
+08:10:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:10:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:10:56 AM    dev8-0      1,30      0,00     35,20     27,08      0,00      1,62      1,62      0,21;;;;;;;;;;8:10:56;AM;dev8-0;1,3;0;35,2;27,08;0;1,62;1,62;0,21
+;;;;;;;;;;;;;;;;;;;;
+08:10:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:10:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:11:06 AM    dev8-0      3,80      0,00     58,40     15,37      0,01      1,71      0,50      0,19;;;;;;;;;;8:11:06;AM;dev8-0;3,8;0;58,4;15,37;0,01;1,71;0,5;0,19
+;;;;;;;;;;;;;;;;;;;;
+08:11:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:11:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:11:16 AM    dev8-0      1,50      0,00     28,80     19,20      0,00      0,67      0,53      0,08;;;;;;;;;;8:11:16;AM;dev8-0;1,5;0;28,8;19,2;0;0,67;0,53;0,08
+;;;;;;;;;;;;;;;;;;;;
+08:11:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:11:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:11:26 AM    dev8-0      1,90      0,00     37,60     19,79      0,00      1,42      1,05      0,20;;;;;;;;;;8:11:26;AM;dev8-0;1,9;0;37,6;19,79;0;1,42;1,05;0,2
+;;;;;;;;;;;;;;;;;;;;
+08:11:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:11:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:11:36 AM    dev8-0      1,30      0,00     36,00     27,69      0,00      0,92      0,69      0,09;;;;;;;;;;8:11:36;AM;dev8-0;1,3;0;36;27,69;0;0,92;0,69;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:11:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:11:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:11:46 AM    dev8-0      3,00      0,00     48,00     16,00      0,01      2,47      0,57      0,17;;;;;;;;;;8:11:46;AM;dev8-0;3;0;48;16;0,01;2,47;0,57;0,17
+;;;;;;;;;;;;;;;;;;;;
+08:11:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:11:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:11:56 AM    dev8-0      1,70      0,00     33,57     19,76      0,00      0,88      0,53      0,09;;;;;;;;;;8:11:56;AM;dev8-0;1,7;0;33,57;19,76;0;0,88;0,53;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:11:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:11:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:12:06 AM    dev8-0      2,00      0,00     48,80     24,40      0,00      1,00      0,75      0,15;;;;;;;;;;8:12:06;AM;dev8-0;2;0;48,8;24,4;0;1;0,75;0,15
+;;;;;;;;;;;;;;;;;;;;
+08:12:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:12:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:12:16 AM    dev8-0      1,90      0,00     35,20     18,53      0,00      1,42      1,16      0,22;;;;;;;;;;8:12:16;AM;dev8-0;1,9;0;35,2;18,53;0;1,42;1,16;0,22
+;;;;;;;;;;;;;;;;;;;;
+08:12:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:12:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:12:26 AM    dev8-0      1,80      0,00     37,60     20,89      0,00      0,78      0,56      0,10;;;;;;;;;;8:12:26;AM;dev8-0;1,8;0;37,6;20,89;0;0,78;0,56;0,1
+;;;;;;;;;;;;;;;;;;;;
+08:12:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:12:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:12:36 AM    dev8-0      1,70      0,00     32,00     18,82      0,00      0,94      0,59      0,10;;;;;;;;;;8:12:36;AM;dev8-0;1,7;0;32;18,82;0;0,94;0,59;0,1
+;;;;;;;;;;;;;;;;;;;;
+08:12:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:12:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:12:46 AM    dev8-0      1,40      0,00     32,80     23,43      0,00      0,93      0,71      0,10;;;;;;;;;;8:12:46;AM;dev8-0;1,4;0;32,8;23,43;0;0,93;0,71;0,1
+;;;;;;;;;;;;;;;;;;;;
+08:12:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:12:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:12:56 AM    dev8-0      2,50      0,00     47,20     18,88      0,00      1,20      0,60      0,15;;;;;;;;;;8:12:56;AM;dev8-0;2,5;0;47,2;18,88;0;1,2;0,6;0,15
+;;;;;;;;;;;;;;;;;;;;
+08:12:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:12:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:13:06 AM    dev8-0      1,80      0,00     40,00     22,22      0,00      0,89      0,56      0,10;;;;;;;;;;8:13:06;AM;dev8-0;1,8;0;40;22,22;0;0,89;0,56;0,1
+;;;;;;;;;;;;;;;;;;;;
+08:13:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:13:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:13:16 AM    dev8-0      3,60      0,00     76,00     21,11      0,01      1,61      1,17      0,42;;;;;;;;;;8:13:16;AM;dev8-0;3,6;0;76;21,11;0,01;1,61;1,17;0,42
+;;;;;;;;;;;;;;;;;;;;
+08:13:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:13:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:13:26 AM    dev8-0      4,00      0,00     61,60     15,40      0,01      1,95      0,53      0,21;;;;;;;;;;8:13:26;AM;dev8-0;4;0;61,6;15,4;0,01;1,95;0,53;0,21
+;;;;;;;;;;;;;;;;;;;;
+08:13:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:13:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:13:36 AM    dev8-0      1,20      0,00     26,40     22,00      0,00      1,17      0,92      0,11;;;;;;;;;;8:13:36;AM;dev8-0;1,2;0;26,4;22;0;1,17;0,92;0,11
+;;;;;;;;;;;;;;;;;;;;
+08:13:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:13:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:13:46 AM    dev8-0      1,50      0,00     31,20     20,80      0,00      1,13      0,87      0,13;;;;;;;;;;8:13:46;AM;dev8-0;1,5;0;31,2;20,8;0;1,13;0,87;0,13
+;;;;;;;;;;;;;;;;;;;;
+08:13:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:13:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:13:56 AM    dev8-0      1,70      0,00     34,40     20,24      0,00      1,65      1,41      0,24;;;;;;;;;;8:13:56;AM;dev8-0;1,7;0;34,4;20,24;0;1,65;1,41;0,24
+;;;;;;;;;;;;;;;;;;;;
+08:13:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:13:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:14:06 AM    dev8-0      3,40      0,00     70,40     20,71      0,00      1,21      0,59      0,20;;;;;;;;;;8:14:06;AM;dev8-0;3,4;0;70,4;20,71;0;1,21;0,59;0,2
+;;;;;;;;;;;;;;;;;;;;
+08:14:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:14:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:14:16 AM    dev8-0      1,10      0,00     27,20     24,73      0,00      3,27      3,09      0,34;;;;;;;;;;8:14:16;AM;dev8-0;1,1;0;27,2;24,73;0;3,27;3,09;0,34
+;;;;;;;;;;;;;;;;;;;;
+08:14:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:14:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:14:26 AM    dev8-0      1,80      0,00     30,40     16,89      0,00      2,00      1,56      0,28;;;;;;;;;;8:14:26;AM;dev8-0;1,8;0;30,4;16,89;0;2;1,56;0,28
+;;;;;;;;;;;;;;;;;;;;
+08:14:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:14:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:14:36 AM    dev8-0      3,20      0,00     46,40     14,50      0,00      1,53      0,44      0,14;;;;;;;;;;8:14:36;AM;dev8-0;3,2;0;46,4;14,5;0;1,53;0,44;0,14
+;;;;;;;;;;;;;;;;;;;;
+08:14:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:14:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:14:46 AM    dev8-0      1,90      0,00     43,20     22,74      0,00      2,42      1,74      0,33;;;;;;;;;;8:14:46;AM;dev8-0;1,9;0;43,2;22,74;0;2,42;1,74;0,33
+;;;;;;;;;;;;;;;;;;;;
+08:14:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:14:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:14:56 AM    dev8-0      1,10      0,00     18,40     16,73      0,00      2,82      2,82      0,31;;;;;;;;;;8:14:56;AM;dev8-0;1,1;0;18,4;16,73;0;2,82;2,82;0,31
+;;;;;;;;;;;;;;;;;;;;
+08:14:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:14:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:15:06 AM    dev8-0      1,70      0,00     43,20     25,41      0,01      3,00      1,71      0,29;;;;;;;;;;8:15:06;AM;dev8-0;1,7;0;43,2;25,41;0,01;3;1,71;0,29
+;;;;;;;;;;;;;;;;;;;;
+08:15:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:15:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:15:16 AM    dev8-0      3,10      0,00     47,20     15,23      0,00      1,42      0,55      0,17;;;;;;;;;;8:15:16;AM;dev8-0;3,1;0;47,2;15,23;0;1,42;0,55;0,17
+;;;;;;;;;;;;;;;;;;;;
+08:15:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:15:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:15:26 AM    dev8-0      1,70      0,00     40,80     24,00      0,00      1,88      1,65      0,28;;;;;;;;;;8:15:26;AM;dev8-0;1,7;0;40,8;24;0;1,88;1,65;0,28
+;;;;;;;;;;;;;;;;;;;;
+08:15:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:15:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:15:36 AM    dev8-0      1,10      0,00     24,00     21,82      0,00      1,18      1,09      0,12;;;;;;;;;;8:15:36;AM;dev8-0;1,1;0;24;21,82;0;1,18;1,09;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:15:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:15:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:15:46 AM    dev8-0      1,90      0,00     37,60     19,79      0,00      1,16      0,74      0,14;;;;;;;;;;8:15:46;AM;dev8-0;1,9;0;37,6;19,79;0;1,16;0,74;0,14
+;;;;;;;;;;;;;;;;;;;;
+08:15:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:15:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:15:56 AM    dev8-0      1,90      0,00     40,80     21,47      0,00      1,74      1,42      0,27;;;;;;;;;;8:15:56;AM;dev8-0;1,9;0;40,8;21,47;0;1,74;1,42;0,27
+;;;;;;;;;;;;;;;;;;;;
+08:15:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:15:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:16:06 AM    dev8-0      2,20      0,00     56,80     25,82      0,00      1,14      0,86      0,19;;;;;;;;;;8:16:06;AM;dev8-0;2,2;0;56,8;25,82;0;1,14;0,86;0,19
+;;;;;;;;;;;;;;;;;;;;
+08:16:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:16:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:16:16 AM    dev8-0      2,90      0,00     42,40     14,62      0,01      1,72      0,72      0,21;;;;;;;;;;8:16:16;AM;dev8-0;2,9;0;42,4;14,62;0,01;1,72;0,72;0,21
+;;;;;;;;;;;;;;;;;;;;
+08:16:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:16:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:16:26 AM    dev8-0      1,70      0,00     26,40     15,53      0,00      0,88      0,71      0,12;;;;;;;;;;8:16:26;AM;dev8-0;1,7;0;26,4;15,53;0;0,88;0,71;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:16:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:16:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:16:36 AM    dev8-0      1,90      0,00     36,80     19,37      0,00      1,11      0,89      0,17;;;;;;;;;;8:16:36;AM;dev8-0;1,9;0;36,8;19,37;0;1,11;0,89;0,17
+;;;;;;;;;;;;;;;;;;;;
+08:16:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:16:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:16:46 AM    dev8-0      1,50      0,00     38,40     25,60      0,00      0,93      0,53      0,08;;;;;;;;;;8:16:46;AM;dev8-0;1,5;0;38,4;25,6;0;0,93;0,53;0,08
+;;;;;;;;;;;;;;;;;;;;
+08:16:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:16:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:16:56 AM    dev8-0      2,70      0,00     34,40     12,74      0,00      1,63      0,48      0,13;;;;;;;;;;8:16:56;AM;dev8-0;2,7;0;34,4;12,74;0;1,63;0,48;0,13
+;;;;;;;;;;;;;;;;;;;;
+08:16:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:16:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:17:06 AM    dev8-0      1,80      0,00     44,80     24,89      0,00      1,22      0,89      0,16;;;;;;;;;;8:17:06;AM;dev8-0;1,8;0;44,8;24,89;0;1,22;0,89;0,16
+;;;;;;;;;;;;;;;;;;;;
+08:17:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:17:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:17:16 AM    dev8-0      1,80      0,00     36,00     20,00      0,00      1,72      1,56      0,28;;;;;;;;;;8:17:16;AM;dev8-0;1,8;0;36;20;0;1,72;1,56;0,28
+;;;;;;;;;;;;;;;;;;;;
+08:17:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:17:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:17:26 AM    dev8-0      3,00      0,00     51,20     17,07      0,00      1,43      0,40      0,12;;;;;;;;;;8:17:26;AM;dev8-0;3;0;51,2;17,07;0;1,43;0,4;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:17:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:17:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:17:36 AM    dev8-0      1,40      0,00     27,20     19,43      0,00      1,14      0,71      0,10;;;;;;;;;;8:17:36;AM;dev8-0;1,4;0;27,2;19,43;0;1,14;0,71;0,1
+;;;;;;;;;;;;;;;;;;;;
+08:17:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:17:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:17:46 AM    dev8-0      1,60      0,00     36,00     22,50      0,01      3,12      2,69      0,43;;;;;;;;;;8:17:46;AM;dev8-0;1,6;0;36;22,5;0,01;3,12;2,69;0,43
+;;;;;;;;;;;;;;;;;;;;
+08:17:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:17:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:17:56 AM    dev8-0      2,00      0,00     40,80     20,40      0,00      1,30      1,10      0,22;;;;;;;;;;8:17:56;AM;dev8-0;2;0;40,8;20,4;0;1,3;1,1;0,22
+;;;;;;;;;;;;;;;;;;;;
+08:17:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:17:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:18:06 AM    dev8-0      3,70      0,00     68,00     18,38      0,01      2,51      1,05      0,39;;;;;;;;;;8:18:06;AM;dev8-0;3,7;0;68;18,38;0,01;2,51;1,05;0,39
+;;;;;;;;;;;;;;;;;;;;
+08:18:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:18:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:18:16 AM    dev8-0      3,30      0,00     72,80     22,06      0,00      1,39      1,18      0,39;;;;;;;;;;8:18:16;AM;dev8-0;3,3;0;72,8;22,06;0;1,39;1,18;0,39
+;;;;;;;;;;;;;;;;;;;;
+08:18:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:18:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:18:26 AM    dev8-0      1,70      0,00     36,00     21,18      0,00      0,94      0,76      0,13;;;;;;;;;;8:18:26;AM;dev8-0;1,7;0;36;21,18;0;0,94;0,76;0,13
+;;;;;;;;;;;;;;;;;;;;
+08:18:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:18:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:18:36 AM    dev8-0      3,90      0,00     53,60     13,74      0,01      2,77      0,67      0,26;;;;;;;;;;8:18:36;AM;dev8-0;3,9;0;53,6;13,74;0,01;2,77;0,67;0,26
+;;;;;;;;;;;;;;;;;;;;
+08:18:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:18:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:18:46 AM    dev8-0      1,70      0,00     39,20     23,06      0,00      0,82      0,47      0,08;;;;;;;;;;8:18:46;AM;dev8-0;1,7;0;39,2;23,06;0;0,82;0,47;0,08
+;;;;;;;;;;;;;;;;;;;;
+08:18:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:18:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:18:56 AM    dev8-0      1,20      0,00     20,80     17,33      0,00      2,33      2,00      0,24;;;;;;;;;;8:18:56;AM;dev8-0;1,2;0;20,8;17,33;0;2,33;2;0,24
+;;;;;;;;;;;;;;;;;;;;
+08:18:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:18:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:19:06 AM    dev8-0      1,80      0,00     46,40     25,78      0,00      1,83      1,17      0,21;;;;;;;;;;8:19:06;AM;dev8-0;1,8;0;46,4;25,78;0;1,83;1,17;0,21
+;;;;;;;;;;;;;;;;;;;;
+08:19:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:19:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:19:16 AM    dev8-0      2,70      0,00     44,00     16,30      0,00      0,93      0,56      0,15;;;;;;;;;;8:19:16;AM;dev8-0;2,7;0;44;16,3;0;0,93;0,56;0,15
+;;;;;;;;;;;;;;;;;;;;
+08:19:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:19:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:19:26 AM    dev8-0      2,10      0,00     52,00     24,76      0,00      1,29      0,95      0,20;;;;;;;;;;8:19:26;AM;dev8-0;2,1;0;52;24,76;0;1,29;0,95;0,2
+;;;;;;;;;;;;;;;;;;;;
+08:19:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:19:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:19:36 AM    dev8-0      1,40      0,00     29,60     21,14      0,00      1,07      1,00      0,14;;;;;;;;;;8:19:36;AM;dev8-0;1,4;0;29,6;21,14;0;1,07;1;0,14
+;;;;;;;;;;;;;;;;;;;;
+08:19:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:19:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:19:46 AM    dev8-0      2,90      0,00     40,80     14,07      0,01      3,31      0,90      0,26;;;;;;;;;;8:19:46;AM;dev8-0;2,9;0;40,8;14,07;0,01;3,31;0,9;0,26
+;;;;;;;;;;;;;;;;;;;;
+08:19:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:19:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:19:56 AM    dev8-0      2,00      0,00     39,20     19,60      0,00      1,05      0,80      0,16;;;;;;;;;;8:19:56;AM;dev8-0;2;0;39,2;19,6;0;1,05;0,8;0,16
+;;;;;;;;;;;;;;;;;;;;
+08:19:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:19:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:20:06 AM    dev8-0      2,30      0,00     70,40     30,61      0,00      2,09      1,43      0,33;;;;;;;;;;8:20:06;AM;dev8-0;2,3;0;70,4;30,61;0;2,09;1,43;0,33
+;;;;;;;;;;;;;;;;;;;;
+08:20:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:20:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:20:16 AM    dev8-0      1,20      0,00     26,40     22,00      0,00      2,42      2,33      0,28;;;;;;;;;;8:20:16;AM;dev8-0;1,2;0;26,4;22;0;2,42;2,33;0,28
+;;;;;;;;;;;;;;;;;;;;
+08:20:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:20:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:20:26 AM    dev8-0      4,20      0,00     55,20     13,14      0,02      5,12      1,24      0,52;;;;;;;;;;8:20:26;AM;dev8-0;4,2;0;55,2;13,14;0,02;5,12;1,24;0,52
+;;;;;;;;;;;;;;;;;;;;
+08:20:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:20:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:20:36 AM    dev8-0      2,40      0,00     44,80     18,67      0,00      1,25      0,83      0,20;;;;;;;;;;8:20:36;AM;dev8-0;2,4;0;44,8;18,67;0;1,25;0,83;0,2
+;;;;;;;;;;;;;;;;;;;;
+08:20:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:20:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:20:46 AM    dev8-0      1,50      0,00     34,40     22,93      0,00      2,00      1,60      0,24;;;;;;;;;;8:20:46;AM;dev8-0;1,5;0;34,4;22,93;0;2;1,6;0,24
+;;;;;;;;;;;;;;;;;;;;
+08:20:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:20:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:20:56 AM    dev8-0      2,30      0,00     28,80     12,52      0,00      1,52      0,96      0,22;;;;;;;;;;8:20:56;AM;dev8-0;2,3;0;28,8;12,52;0;1,52;0,96;0,22
+;;;;;;;;;;;;;;;;;;;;
+08:20:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:20:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:21:06 AM    dev8-0      1,90      0,00     49,60     26,11      0,00      1,26      0,79      0,15;;;;;;;;;;8:21:06;AM;dev8-0;1,9;0;49,6;26,11;0;1,26;0,79;0,15
+;;;;;;;;;;;;;;;;;;;;
+08:21:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:21:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:21:16 AM    dev8-0      1,80      0,00     35,20     19,56      0,00      0,72      0,67      0,12;;;;;;;;;;8:21:16;AM;dev8-0;1,8;0;35,2;19,56;0;0,72;0,67;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:21:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:21:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:21:26 AM    dev8-0      1,60      0,00     41,60     26,00      0,00      1,56      1,25      0,20;;;;;;;;;;8:21:26;AM;dev8-0;1,6;0;41,6;26;0;1,56;1,25;0,2
+;;;;;;;;;;;;;;;;;;;;
+08:21:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:21:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:21:36 AM    dev8-0      2,20      0,00     33,60     15,27      0,01      6,32      3,14      0,69;;;;;;;;;;8:21:36;AM;dev8-0;2,2;0;33,6;15,27;0,01;6,32;3,14;0,69
+;;;;;;;;;;;;;;;;;;;;
+08:21:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:21:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:21:46 AM    dev8-0      1,50      0,00     29,60     19,73      0,00      1,13      0,80      0,12;;;;;;;;;;8:21:46;AM;dev8-0;1,5;0;29,6;19,73;0;1,13;0,8;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:21:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:21:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:21:56 AM    dev8-0      1,90      0,00     41,60     21,89      0,00      0,74      0,58      0,11;;;;;;;;;;8:21:56;AM;dev8-0;1,9;0;41,6;21,89;0;0,74;0,58;0,11
+;;;;;;;;;;;;;;;;;;;;
+08:21:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:21:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:22:06 AM    dev8-0      3,60      0,00     60,80     16,89      0,01      1,78      0,50      0,18;;;;;;;;;;8:22:06;AM;dev8-0;3,6;0;60,8;16,89;0,01;1,78;0,5;0,18
+;;;;;;;;;;;;;;;;;;;;
+08:22:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:22:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:22:16 AM    dev8-0      1,50      0,00     34,40     22,93      0,01      8,00      4,27      0,64;;;;;;;;;;8:22:16;AM;dev8-0;1,5;0;34,4;22,93;0,01;8;4,27;0,64
+;;;;;;;;;;;;;;;;;;;;
+08:22:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:22:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:22:26 AM    dev8-0      1,60      0,00     32,80     20,50      0,00      1,44      1,44      0,23;;;;;;;;;;8:22:26;AM;dev8-0;1,6;0;32,8;20,5;0;1,44;1,44;0,23
+;;;;;;;;;;;;;;;;;;;;
+08:22:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:22:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:22:36 AM    dev8-0      1,80      0,00     32,80     18,22      0,00      1,50      0,83      0,15;;;;;;;;;;8:22:36;AM;dev8-0;1,8;0;32,8;18,22;0;1,5;0,83;0,15
+;;;;;;;;;;;;;;;;;;;;
+08:22:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:22:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:22:46 AM    dev8-0      1,60      0,00     32,00     20,00      0,00      1,44      1,00      0,16;;;;;;;;;;8:22:46;AM;dev8-0;1,6;0;32;20;0;1,44;1;0,16
+;;;;;;;;;;;;;;;;;;;;
+08:22:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:22:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:22:56 AM    dev8-0      1,70      0,00     36,80     21,65      0,00      0,94      0,71      0,12;;;;;;;;;;8:22:56;AM;dev8-0;1,7;0;36,8;21,65;0;0,94;0,71;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:22:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:22:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:23:06 AM    dev8-0      1,60      0,00     34,40     21,50      0,00      1,94      1,19      0,19;;;;;;;;;;8:23:06;AM;dev8-0;1,6;0;34,4;21,5;0;1,94;1,19;0,19
+;;;;;;;;;;;;;;;;;;;;
+08:23:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:23:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:23:16 AM    dev8-0      5,20      0,00     94,40     18,15      0,01      1,85      0,58      0,30;;;;;;;;;;8:23:16;AM;dev8-0;5,2;0;94,4;18,15;0,01;1,85;0,58;0,3
+;;;;;;;;;;;;;;;;;;;;
+08:23:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:23:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:23:26 AM    dev8-0      1,70      0,00     44,00     25,88      0,00      1,00      0,76      0,13;;;;;;;;;;8:23:26;AM;dev8-0;1,7;0;44;25,88;0;1;0,76;0,13
+;;;;;;;;;;;;;;;;;;;;
+08:23:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:23:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:23:36 AM    dev8-0      1,40      0,00     30,40     21,71      0,00      0,71      0,50      0,07;;;;;;;;;;8:23:36;AM;dev8-0;1,4;0;30,4;21,71;0;0,71;0,5;0,07
+;;;;;;;;;;;;;;;;;;;;
+08:23:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:23:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:23:46 AM    dev8-0      5,30      0,00     67,20     12,68      0,01      1,96      0,34      0,18;;;;;;;;;;8:23:46;AM;dev8-0;5,3;0;67,2;12,68;0,01;1,96;0,34;0,18
+;;;;;;;;;;;;;;;;;;;;
+08:23:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:23:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:23:56 AM    dev8-0      3,10      0,00     56,00     18,06      0,00      1,32      0,68      0,21;;;;;;;;;;8:23:56;AM;dev8-0;3,1;0;56;18,06;0;1,32;0,68;0,21
+;;;;;;;;;;;;;;;;;;;;
+08:23:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:23:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:24:06 AM    dev8-0      4,20      0,00     72,80     17,33      0,01      3,48      1,07      0,45;;;;;;;;;;8:24:06;AM;dev8-0;4,2;0;72,8;17,33;0,01;3,48;1,07;0,45
+;;;;;;;;;;;;;;;;;;;;
+08:24:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:24:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:24:16 AM    dev8-0      1,10      0,00     25,57     23,27      0,00      1,27      1,09      0,12;;;;;;;;;;8:24:16;AM;dev8-0;1,1;0;25,57;23,27;0;1,27;1,09;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:24:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:24:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:24:26 AM    dev8-0      1,40      0,00     32,83     23,43      0,00      3,07      3,00      0,42;;;;;;;;;;8:24:26;AM;dev8-0;1,4;0;32,83;23,43;0;3,07;3;0,42
+;;;;;;;;;;;;;;;;;;;;
+08:24:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:24:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:24:36 AM    dev8-0      3,00      0,00     45,55     15,20      0,01      2,10      0,87      0,26;;;;;;;;;;8:24:36;AM;dev8-0;3;0;45,55;15,2;0,01;2,1;0,87;0,26
+;;;;;;;;;;;;;;;;;;;;
+08:24:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:24:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:24:46 AM    dev8-0      3,40      0,00     51,20     15,06      0,01      2,41      1,00      0,34;;;;;;;;;;8:24:46;AM;dev8-0;3,4;0;51,2;15,06;0,01;2,41;1;0,34
+;;;;;;;;;;;;;;;;;;;;
+08:24:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:24:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:24:56 AM    dev8-0      1,30      0,00     31,20     24,00      0,00      0,85      0,69      0,09;;;;;;;;;;8:24:56;AM;dev8-0;1,3;0;31,2;24;0;0,85;0,69;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:24:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:24:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:25:06 AM    dev8-0      1,40      0,00     33,60     24,00      0,00      1,64      1,00      0,14;;;;;;;;;;8:25:06;AM;dev8-0;1,4;0;33,6;24;0;1,64;1;0,14
+;;;;;;;;;;;;;;;;;;;;
+08:25:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:25:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:25:16 AM    dev8-0      1,20      0,00     26,40     22,00      0,00      1,83      1,75      0,21;;;;;;;;;;8:25:16;AM;dev8-0;1,2;0;26,4;22;0;1,83;1,75;0,21
+;;;;;;;;;;;;;;;;;;;;
+08:25:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:25:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:25:26 AM    dev8-0      3,60      0,00     60,80     16,89      0,02      5,86      1,67      0,60;;;;;;;;;;8:25:26;AM;dev8-0;3,6;0;60,8;16,89;0,02;5,86;1,67;0,6
+;;;;;;;;;;;;;;;;;;;;
+08:25:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:25:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:25:36 AM    dev8-0      1,30      0,00     32,00     24,62      0,00      1,69      1,08      0,14;;;;;;;;;;8:25:36;AM;dev8-0;1,3;0;32;24,62;0;1,69;1,08;0,14
+;;;;;;;;;;;;;;;;;;;;
+08:25:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:25:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:25:46 AM    dev8-0      1,20      0,00     28,80     24,00      0,00      0,83      0,67      0,08;;;;;;;;;;8:25:46;AM;dev8-0;1,2;0;28,8;24;0;0,83;0,67;0,08
+;;;;;;;;;;;;;;;;;;;;
+08:25:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:25:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:25:56 AM    dev8-0      2,00      0,00     36,80     18,40      0,00      0,95      0,45      0,09;;;;;;;;;;8:25:56;AM;dev8-0;2;0;36,8;18,4;0;0,95;0,45;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:25:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:25:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:26:06 AM    dev8-0      2,90      0,00     59,20     20,41      0,00      1,59      1,14      0,33;;;;;;;;;;8:26:06;AM;dev8-0;2,9;0;59,2;20,41;0;1,59;1,14;0,33
+;;;;;;;;;;;;;;;;;;;;
+08:26:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:26:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:26:16 AM    dev8-0      1,10      0,00     25,60     23,27      0,00      2,55      2,45      0,27;;;;;;;;;;8:26:16;AM;dev8-0;1,1;0;25,6;23,27;0;2,55;2,45;0,27
+;;;;;;;;;;;;;;;;;;;;
+08:26:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:26:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:26:26 AM    dev8-0      1,40      0,00     32,80     23,43      0,00      0,71      0,64      0,09;;;;;;;;;;8:26:26;AM;dev8-0;1,4;0;32,8;23,43;0;0,71;0,64;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:26:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:26:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:26:36 AM    dev8-0      1,90      0,00     30,40     16,00      0,00      0,79      0,32      0,06;;;;;;;;;;8:26:36;AM;dev8-0;1,9;0;30,4;16;0;0,79;0,32;0,06
+;;;;;;;;;;;;;;;;;;;;
+08:26:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:26:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:26:46 AM    dev8-0      2,20      0,00     46,40     21,09      0,00      1,91      1,45      0,32;;;;;;;;;;8:26:46;AM;dev8-0;2,2;0;46,4;21,09;0;1,91;1,45;0,32
+;;;;;;;;;;;;;;;;;;;;
+08:26:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:26:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:26:56 AM    dev8-0      3,10      0,00     52,80     17,03      0,00      1,00      0,35      0,11;;;;;;;;;;8:26:56;AM;dev8-0;3,1;0;52,8;17,03;0;1;0,35;0,11
+;;;;;;;;;;;;;;;;;;;;
+08:26:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:26:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:27:06 AM    dev8-0      4,80      0,00     67,20     14,00      0,01      1,44      0,33      0,16;;;;;;;;;;8:27:06;AM;dev8-0;4,8;0;67,2;14;0,01;1,44;0,33;0,16
+;;;;;;;;;;;;;;;;;;;;
+08:27:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:27:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:27:16 AM    dev8-0      3,30      0,00     52,80     16,00      0,01      2,30      0,61      0,20;;;;;;;;;;8:27:16;AM;dev8-0;3,3;0;52,8;16;0,01;2,3;0,61;0,2
+;;;;;;;;;;;;;;;;;;;;
+08:27:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:27:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:27:26 AM    dev8-0      1,90      5,60     20,80     13,89      0,01      4,89      3,05      0,58;;;;;;;;;;8:27:26;AM;dev8-0;1,9;5,6;20,8;13,89;0,01;4,89;3,05;0,58
+;;;;;;;;;;;;;;;;;;;;
+08:27:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:27:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:27:36 AM    dev8-0      1,30      0,00     36,00     27,69      0,00      1,54      1,38      0,18;;;;;;;;;;8:27:36;AM;dev8-0;1,3;0;36;27,69;0;1,54;1,38;0,18
+;;;;;;;;;;;;;;;;;;;;
+08:27:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:27:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:27:46 AM    dev8-0      1,40      0,00     33,60     24,00      0,00      1,29      1,07      0,15;;;;;;;;;;8:27:46;AM;dev8-0;1,4;0;33,6;24;0;1,29;1,07;0,15
+;;;;;;;;;;;;;;;;;;;;
+08:27:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:27:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:27:56 AM    dev8-0      4,00      0,00     62,40     15,60      0,01      1,32      0,38      0,15;;;;;;;;;;8:27:56;AM;dev8-0;4;0;62,4;15,6;0,01;1,32;0,38;0,15
+;;;;;;;;;;;;;;;;;;;;
+08:27:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:27:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:28:06 AM    dev8-0      1,70      0,00     40,00     23,53      0,00      0,76      0,59      0,10;;;;;;;;;;8:28:06;AM;dev8-0;1,7;0;40;23,53;0;0,76;0,59;0,1
+;;;;;;;;;;;;;;;;;;;;
+08:28:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:28:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:28:16 AM    dev8-0      3,10      0,00     70,40     22,71      0,01      2,84      2,10      0,65;;;;;;;;;;8:28:16;AM;dev8-0;3,1;0;70,4;22,71;0,01;2,84;2,1;0,65
+;;;;;;;;;;;;;;;;;;;;
+08:28:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:28:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:28:26 AM    dev8-0      3,50      0,00     56,00     16,00      0,01      1,94      1,03      0,36;;;;;;;;;;8:28:26;AM;dev8-0;3,5;0;56;16;0,01;1,94;1,03;0,36
+;;;;;;;;;;;;;;;;;;;;
+08:28:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:28:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:28:36 AM    dev8-0      2,20      0,00     45,60     20,73      0,00      0,91      0,55      0,12;;;;;;;;;;8:28:36;AM;dev8-0;2,2;0;45,6;20,73;0;0,91;0,55;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:28:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:28:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:28:46 AM    dev8-0      1,20      0,00     28,00     23,33      0,00      0,75      0,75      0,09;;;;;;;;;;8:28:46;AM;dev8-0;1,2;0;28;23,33;0;0,75;0,75;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:28:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:28:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:28:56 AM    dev8-0      1,10      0,00     18,40     16,73      0,00      0,91      0,73      0,08;;;;;;;;;;8:28:56;AM;dev8-0;1,1;0;18,4;16,73;0;0,91;0,73;0,08
+;;;;;;;;;;;;;;;;;;;;
+08:28:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:28:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:29:06 AM    dev8-0      2,30      0,00     50,40     21,91      0,00      1,91      1,00      0,23;;;;;;;;;;8:29:06;AM;dev8-0;2,3;0;50,4;21,91;0;1,91;1;0,23
+;;;;;;;;;;;;;;;;;;;;
+08:29:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:29:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:29:16 AM    dev8-0      2,30      0,00     48,00     20,87      0,00      0,96      0,57      0,13;;;;;;;;;;8:29:16;AM;dev8-0;2,3;0;48;20,87;0;0,96;0,57;0,13
+;;;;;;;;;;;;;;;;;;;;
+08:29:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:29:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:29:26 AM    dev8-0      1,60      0,00     35,20     22,00      0,00      0,81      0,56      0,09;;;;;;;;;;8:29:26;AM;dev8-0;1,6;0;35,2;22;0;0,81;0,56;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:29:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:29:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:29:36 AM    dev8-0      2,70      0,00     38,40     14,22      0,01      3,96      1,19      0,32;;;;;;;;;;8:29:36;AM;dev8-0;2,7;0;38,4;14,22;0,01;3,96;1,19;0,32
+;;;;;;;;;;;;;;;;;;;;
+08:29:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:29:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:29:46 AM    dev8-0      1,40      0,00     35,20     25,14      0,00      1,07      0,93      0,13;;;;;;;;;;8:29:46;AM;dev8-0;1,4;0;35,2;25,14;0;1,07;0,93;0,13
+;;;;;;;;;;;;;;;;;;;;
+08:29:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:29:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:29:56 AM    dev8-0      2,40      0,00     46,40     19,33      0,00      1,21      0,88      0,21;;;;;;;;;;8:29:56;AM;dev8-0;2,4;0;46,4;19,33;0;1,21;0,88;0,21
+;;;;;;;;;;;;;;;;;;;;
+08:29:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:29:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:30:06 AM    dev8-0      3,50      0,00     68,80     19,66      0,01      2,23      0,86      0,30;;;;;;;;;;8:30:06;AM;dev8-0;3,5;0;68,8;19,66;0,01;2,23;0,86;0,3
+;;;;;;;;;;;;;;;;;;;;
+08:30:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:30:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:30:16 AM    dev8-0      1,20      0,00     26,40     22,00      0,00      0,92      0,83      0,10;;;;;;;;;;8:30:16;AM;dev8-0;1,2;0;26,4;22;0;0,92;0,83;0,1
+;;;;;;;;;;;;;;;;;;;;
+08:30:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:30:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:30:26 AM    dev8-0      1,50      0,00     33,60     22,40      0,00      1,73      1,60      0,24;;;;;;;;;;8:30:26;AM;dev8-0;1,5;0;33,6;22,4;0;1,73;1,6;0,24
+;;;;;;;;;;;;;;;;;;;;
+08:30:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:30:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:30:36 AM    dev8-0      3,20      0,00     62,40     19,50      0,00      1,34      0,44      0,14;;;;;;;;;;8:30:36;AM;dev8-0;3,2;0;62,4;19,5;0;1,34;0,44;0,14
+;;;;;;;;;;;;;;;;;;;;
+08:30:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:30:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:30:46 AM    dev8-0      3,50      0,00     47,20     13,49      0,01      2,91      0,40      0,14;;;;;;;;;;8:30:46;AM;dev8-0;3,5;0;47,2;13,49;0,01;2,91;0,4;0,14
+;;;;;;;;;;;;;;;;;;;;
+08:30:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:30:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:30:56 AM    dev8-0      1,40      0,00     34,40     24,57      0,01      5,07      4,00      0,56;;;;;;;;;;8:30:56;AM;dev8-0;1,4;0;34,4;24,57;0,01;5,07;4;0,56
+;;;;;;;;;;;;;;;;;;;;
+08:30:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:30:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:31:06 AM    dev8-0      1,50      0,00     34,40     22,93      0,00      0,80      0,53      0,08;;;;;;;;;;8:31:06;AM;dev8-0;1,5;0;34,4;22,93;0;0,8;0,53;0,08
+;;;;;;;;;;;;;;;;;;;;
+08:31:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:31:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:31:16 AM    dev8-0      3,50      0,00     52,80     15,09      0,02      4,43      0,83      0,29;;;;;;;;;;8:31:16;AM;dev8-0;3,5;0;52,8;15,09;0,02;4,43;0,83;0,29
+;;;;;;;;;;;;;;;;;;;;
+08:31:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:31:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:31:26 AM    dev8-0      1,50      0,00     26,40     17,60      0,00      1,00      0,87      0,13;;;;;;;;;;8:31:26;AM;dev8-0;1,5;0;26,4;17,6;0;1;0,87;0,13
+;;;;;;;;;;;;;;;;;;;;
+08:31:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:31:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:31:36 AM    dev8-0      1,30      0,00     30,40     23,38      0,00      1,15      0,92      0,12;;;;;;;;;;8:31:36;AM;dev8-0;1,3;0;30,4;23,38;0;1,15;0,92;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:31:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:31:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:31:46 AM    dev8-0      1,40      0,00     32,00     22,86      0,00      0,86      0,64      0,09;;;;;;;;;;8:31:46;AM;dev8-0;1,4;0;32;22,86;0;0,86;0,64;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:31:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:31:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:31:56 AM    dev8-0      3,40      0,00     45,60     13,41      0,01      2,18      0,76      0,26;;;;;;;;;;8:31:56;AM;dev8-0;3,4;0;45,6;13,41;0,01;2,18;0,76;0,26
+;;;;;;;;;;;;;;;;;;;;
+08:31:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:31:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:32:06 AM    dev8-0      1,90      0,00     55,20     29,05      0,00      1,47      1,21      0,23;;;;;;;;;;8:32:06;AM;dev8-0;1,9;0;55,2;29,05;0;1,47;1,21;0,23
+;;;;;;;;;;;;;;;;;;;;
+08:32:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:32:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:32:16 AM    dev8-0      1,30      0,00     31,20     24,00      0,00      2,00      1,92      0,25;;;;;;;;;;8:32:16;AM;dev8-0;1,3;0;31,2;24;0;2;1,92;0,25
+;;;;;;;;;;;;;;;;;;;;
+08:32:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:32:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:32:26 AM    dev8-0      2,90      0,00     44,80     15,45      0,00      1,24      0,38      0,11;;;;;;;;;;8:32:26;AM;dev8-0;2,9;0;44,8;15,45;0;1,24;0,38;0,11
+;;;;;;;;;;;;;;;;;;;;
+08:32:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:32:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:32:36 AM    dev8-0      2,40      0,00     43,20     18,00      0,00      1,17      0,58      0,14;;;;;;;;;;8:32:36;AM;dev8-0;2,4;0;43,2;18;0;1,17;0,58;0,14
+;;;;;;;;;;;;;;;;;;;;
+08:32:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:32:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:32:46 AM    dev8-0      1,10      0,00     28,00     25,45      0,00      1,00      0,82      0,09;;;;;;;;;;8:32:46;AM;dev8-0;1,1;0;28;25,45;0;1;0,82;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:32:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:32:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:32:56 AM    dev8-0      1,40      0,00     32,00     22,86      0,00      0,79      0,71      0,10;;;;;;;;;;8:32:56;AM;dev8-0;1,4;0;32;22,86;0;0,79;0,71;0,1
+;;;;;;;;;;;;;;;;;;;;
+08:32:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:32:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:33:06 AM    dev8-0      2,90      0,00     45,60     15,72      0,01      2,41      1,45      0,42;;;;;;;;;;8:33:06;AM;dev8-0;2,9;0;45,6;15,72;0,01;2,41;1,45;0,42
+;;;;;;;;;;;;;;;;;;;;
+08:33:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:33:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:33:16 AM    dev8-0      4,20      0,00     94,40     22,48      0,00      0,83      0,48      0,20;;;;;;;;;;8:33:16;AM;dev8-0;4,2;0;94,4;22,48;0;0,83;0,48;0,2
+;;;;;;;;;;;;;;;;;;;;
+08:33:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:33:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:33:26 AM    dev8-0      1,30      0,00     31,20     24,00      0,00      1,85      1,69      0,22;;;;;;;;;;8:33:26;AM;dev8-0;1,3;0;31,2;24;0;1,85;1,69;0,22
+;;;;;;;;;;;;;;;;;;;;
+08:33:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:33:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:33:36 AM    dev8-0      3,40      0,00     48,80     14,35      0,01      1,88      0,56      0,19;;;;;;;;;;8:33:36;AM;dev8-0;3,4;0;48,8;14,35;0,01;1,88;0,56;0,19
+;;;;;;;;;;;;;;;;;;;;
+08:33:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:33:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:33:46 AM    dev8-0      1,30      0,00     28,80     22,15      0,00      1,00      0,69      0,09;;;;;;;;;;8:33:46;AM;dev8-0;1,3;0;28,8;22,15;0;1;0,69;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:33:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:33:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:33:56 AM    dev8-0      2,60      0,00     51,20     19,69      0,01      3,65      0,96      0,25;;;;;;;;;;8:33:56;AM;dev8-0;2,6;0;51,2;19,69;0,01;3,65;0,96;0,25
+;;;;;;;;;;;;;;;;;;;;
+08:33:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:33:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:34:06 AM    dev8-0      1,90      0,00     59,20     31,16      0,00      1,26      0,89      0,17;;;;;;;;;;8:34:06;AM;dev8-0;1,9;0;59,2;31,16;0;1,26;0,89;0,17
+;;;;;;;;;;;;;;;;;;;;
+08:34:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:34:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:34:16 AM    dev8-0      2,40      0,00     41,60     17,33      0,00      1,17      0,67      0,16;;;;;;;;;;8:34:16;AM;dev8-0;2,4;0;41,6;17,33;0;1,17;0,67;0,16
+;;;;;;;;;;;;;;;;;;;;
+08:34:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:34:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:34:26 AM    dev8-0      1,40      0,00     31,20     22,29      0,00      1,86      1,50      0,21;;;;;;;;;;8:34:26;AM;dev8-0;1,4;0;31,2;22,29;0;1,86;1,5;0,21
+;;;;;;;;;;;;;;;;;;;;
+08:34:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:34:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:34:36 AM    dev8-0      2,20      0,00     43,20     19,64      0,00      0,95      0,55      0,12;;;;;;;;;;8:34:36;AM;dev8-0;2,2;0;43,2;19,64;0;0,95;0,55;0,12
+;;;;;;;;;;;;;;;;;;;;
+08:34:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:34:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:34:46 AM    dev8-0      1,80      0,00     33,60     18,67      0,00      1,11      0,72      0,13;;;;;;;;;;8:34:46;AM;dev8-0;1,8;0;33,6;18,67;0;1,11;0,72;0,13
+;;;;;;;;;;;;;;;;;;;;
+08:34:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:34:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:34:56 AM    dev8-0      1,50      0,00     32,80     21,87      0,00      1,47      1,20      0,18;;;;;;;;;;8:34:56;AM;dev8-0;1,5;0;32,8;21,87;0;1,47;1,2;0,18
+;;;;;;;;;;;;;;;;;;;;
+08:34:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:34:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:35:06 AM    dev8-0      1,20      0,00     28,00     23,33      0,00      1,00      0,75      0,09;;;;;;;;;;8:35:06;AM;dev8-0;1,2;0;28;23,33;0;1;0,75;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:35:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:35:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:35:16 AM    dev8-0      2,40      0,00     51,20     21,33      0,00      1,58      0,96      0,23;;;;;;;;;;8:35:16;AM;dev8-0;2,4;0;51,2;21,33;0;1,58;0,96;0,23
+;;;;;;;;;;;;;;;;;;;;
+08:35:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:35:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:35:26 AM    dev8-0      3,10      0,00     49,60     16,00      0,00      1,35      0,35      0,11;;;;;;;;;;8:35:26;AM;dev8-0;3,1;0;49,6;16;0;1,35;0,35;0,11
+;;;;;;;;;;;;;;;;;;;;
+08:35:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:35:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:35:36 AM    dev8-0      1,40      0,00     30,40     21,71      0,00      1,00      0,64      0,09;;;;;;;;;;8:35:36;AM;dev8-0;1,4;0;30,4;21,71;0;1;0,64;0,09
+;;;;;;;;;;;;;;;;;;;;
+08:35:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:35:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:35:46 AM    dev8-0      1,00      0,00     24,80     24,80      0,00      1,50      1,50      0,15;;;;;;;;;;8:35:46;AM;dev8-0;1;0;24,8;24,8;0;1,5;1,5;0,15
+;;;;;;;;;;;;;;;;;;;;
+08:35:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:35:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:35:56 AM    dev8-0      2,80      0,00     49,60     17,71      0,01      2,82      1,54      0,43;;;;;;;;;;8:35:56;AM;dev8-0;2,8;0;49,6;17,71;0,01;2,82;1,54;0,43
+;;;;;;;;;;;;;;;;;;;;
+08:35:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:35:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:36:06 AM    dev8-0      1,90      0,00     44,80     23,58      0,00      1,53      1,37      0,26;;;;;;;;;;8:36:06;AM;dev8-0;1,9;0;44,8;23,58;0;1,53;1,37;0,26
+;;;;;;;;;;;;;;;;;;;;
+08:36:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:36:06;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:36:16 AM    dev8-0      1,40      0,00     32,00     22,86      0,00      1,29      1,07      0,15;;;;;;;;;;8:36:16;AM;dev8-0;1,4;0;32;22,86;0;1,29;1,07;0,15
+;;;;;;;;;;;;;;;;;;;;
+08:36:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:36:16;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:36:26 AM    dev8-0      1,80      0,00     24,80     13,78      0,01      3,28      1,94      0,35;;;;;;;;;;8:36:26;AM;dev8-0;1,8;0;24,8;13,78;0,01;3,28;1,94;0,35
+;;;;;;;;;;;;;;;;;;;;
+08:36:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:36:26;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:36:36 AM    dev8-0      2,40      0,00     54,40     22,67      0,00      0,88      0,46      0,11;;;;;;;;;;8:36:36;AM;dev8-0;2,4;0;54,4;22,67;0;0,88;0,46;0,11
+;;;;;;;;;;;;;;;;;;;;
+08:36:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:36:36;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:36:46 AM    dev8-0      1,10      0,00     28,00     25,45      0,00      0,91      0,73      0,08;;;;;;;;;;8:36:46;AM;dev8-0;1,1;0;28;25,45;0;0,91;0,73;0,08
+;;;;;;;;;;;;;;;;;;;;
+08:36:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:36:46;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:36:56 AM    dev8-0      1,40      0,00     32,00     22,86      0,00      1,57      1,00      0,14;;;;;;;;;;8:36:56;AM;dev8-0;1,4;0;32;22,86;0;1,57;1;0,14
+;;;;;;;;;;;;;;;;;;;;
+08:36:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;8:36:56;AM;DEV;tps;rd_sec/s;wr_sec/s;avgrq-sz;avgqu-sz;await;svctm;%util
+08:37:06 AM    dev8-0      2,60      0,00     40,00     15,38      0,00      1,58      0,50      0,13;;;;;;;;;;8:37:06;AM;dev8-0;2,6;0;40;15,38;0;1,58;0,5;0,13
+;;;;;;;;;;;;;;;;;;;;
+Average:          DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util;;;;;;;;;;;;;;;;;;;;
+Average:       dev8-0      2,16      0,02     41,54     19,25      0,00      1,83      0,95      0,20;;;;;;;;;;;;;;;;;;;;

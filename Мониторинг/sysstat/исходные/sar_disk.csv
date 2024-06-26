@@ -1,0 +1,724 @@
+Linux 3.10.0-1160.76.1.el7.x86_64 (lt-uxcrowd.ru) 	05/07/2024 	_x86_64_	(6 CPU)
+
+07:57:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:57:16 AM    dev8-0      1.50      0.00     32.00     21.33      0.00      1.00      0.60      0.09
+
+07:57:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:57:26 AM    dev8-0      1.90      0.00     44.00     23.16      0.00      2.32      2.00      0.38
+
+07:57:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:57:36 AM    dev8-0      0.90      0.00     26.40     29.33      0.00      0.56      0.44      0.04
+
+07:57:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:57:46 AM    dev8-0      2.80      0.00     49.60     17.71      0.01      3.11      1.75      0.49
+
+07:57:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:57:56 AM    dev8-0      1.70      0.00     30.40     17.88      0.01      3.65      2.47      0.42
+
+07:57:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:58:06 AM    dev8-0      2.10      0.00     56.80     27.05      0.01      3.48      1.57      0.33
+
+07:58:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:58:16 AM    dev8-0      5.20      0.00     88.80     17.08      0.01      1.83      0.71      0.37
+
+07:58:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:58:26 AM    dev8-0      1.90      0.00     36.00     18.95      0.00      1.16      0.84      0.16
+
+07:58:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:58:36 AM    dev8-0      1.60      0.00     33.60     21.00      0.00      0.94      0.56      0.09
+
+07:58:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:58:46 AM    dev8-0      1.50      0.00     33.60     22.40      0.01      3.93      3.27      0.49
+
+07:58:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:58:56 AM    dev8-0      2.40      0.00     28.80     12.00      0.00      1.38      0.54      0.13
+
+07:58:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:59:06 AM    dev8-0      1.90      0.00     39.20     20.63      0.00      1.00      0.68      0.13
+
+07:59:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:59:16 AM    dev8-0      1.80      0.00     36.00     20.00      0.00      0.72      0.50      0.09
+
+07:59:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:59:26 AM    dev8-0      2.20      0.00     43.20     19.64      0.00      1.45      1.23      0.27
+
+07:59:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:59:36 AM    dev8-0      1.30      0.00     24.80     19.08      0.00      0.85      0.54      0.07
+
+07:59:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:59:46 AM    dev8-0      1.50      0.00     32.77     21.87      0.00      2.27      2.13      0.32
+
+07:59:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+07:59:56 AM    dev8-0      3.10      0.00     48.00     15.48      0.01      1.65      0.39      0.12
+
+07:59:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:00:06 AM    dev8-0      2.30      0.00     60.00     26.09      0.00      1.09      0.70      0.16
+
+08:00:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:00:16 AM    dev8-0      1.30      0.00     27.20     20.92      0.00      1.08      1.00      0.13
+
+08:00:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:00:26 AM    dev8-0      1.60      0.00     32.80     20.50      0.00      0.69      0.69      0.11
+
+08:00:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:00:36 AM    dev8-0      4.10      0.00     56.80     13.85      0.01      2.78      0.61      0.25
+
+08:00:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:00:46 AM    dev8-0      1.40      0.00     35.20     25.14      0.00      0.79      0.57      0.08
+
+08:00:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:00:56 AM    dev8-0      1.30      0.00     20.80     16.00      0.00      1.15      1.15      0.15
+
+08:00:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:01:06 AM    dev8-0      4.10      0.00     64.00     15.61      0.01      1.68      0.37      0.15
+
+08:01:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:01:16 AM    dev8-0      1.90      0.00     40.00     21.05      0.00      0.74      0.63      0.12
+
+08:01:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:01:26 AM    dev8-0      1.60      0.00     36.00     22.50      0.00      0.88      0.69      0.11
+
+08:01:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:01:36 AM    dev8-0      2.00      0.00     34.40     17.20      0.00      0.95      0.45      0.09
+
+08:01:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:01:46 AM    dev8-0      3.50      0.00     52.80     15.09      0.01      2.20      0.80      0.28
+
+08:01:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:01:56 AM    dev8-0      1.90      0.00     43.20     22.74      0.00      0.84      0.58      0.11
+
+08:01:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:02:06 AM    dev8-0      1.90      0.00     43.20     22.74      0.00      1.68      1.37      0.26
+
+08:02:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:02:16 AM    dev8-0      2.80      0.00     43.20     15.43      0.01      3.71      1.86      0.52
+
+08:02:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:02:26 AM    dev8-0      1.70      0.00     35.20     20.71      0.00      0.88      0.76      0.13
+
+08:02:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:02:36 AM    dev8-0      1.90      0.00     37.60     19.79      0.00      0.84      0.53      0.10
+
+08:02:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:02:46 AM    dev8-0      1.30      0.00     32.00     24.62      0.00      1.08      0.92      0.12
+
+08:02:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:02:56 AM    dev8-0      3.10      0.00     35.20     11.35      0.01      2.06      0.74      0.23
+
+08:02:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:03:06 AM    dev8-0      1.60      0.00     34.40     21.50      0.00      1.19      0.94      0.15
+
+08:03:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:03:16 AM    dev8-0      3.80      0.00     82.40     21.68      0.01      1.42      1.05      0.40
+
+08:03:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:03:26 AM    dev8-0      4.50      0.00     72.00     16.00      0.01      3.33      0.60      0.27
+
+08:03:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:03:36 AM    dev8-0      1.80      0.00     36.00     20.00      0.00      1.61      1.22      0.22
+
+08:03:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:03:46 AM    dev8-0      1.30      0.00     27.20     20.92      0.00      2.00      1.85      0.24
+
+08:03:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:03:56 AM    dev8-0      1.80      0.00     40.00     22.22      0.00      1.00      0.83      0.15
+
+08:03:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:04:06 AM    dev8-0      3.70      0.00     69.60     18.81      0.01      1.51      0.49      0.18
+
+08:04:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:04:16 AM    dev8-0      1.50      0.00     32.80     21.87      0.00      2.73      2.53      0.38
+
+08:04:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:04:26 AM    dev8-0      1.60      0.00     24.00     15.00      0.00      1.06      0.81      0.13
+
+08:04:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:04:36 AM    dev8-0      3.00      0.00     48.00     16.00      0.01      1.77      0.67      0.20
+
+08:04:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:04:46 AM    dev8-0      1.50      0.00     36.00     24.00      0.00      1.87      1.07      0.16
+
+08:04:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:04:56 AM    dev8-0      1.40      0.00     21.60     15.43      0.00      2.14      1.93      0.27
+
+08:04:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:05:06 AM    dev8-0      1.70      0.00     44.00     25.88      0.00      1.06      0.71      0.12
+
+08:05:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:05:16 AM    dev8-0      3.40      0.00     52.80     15.53      0.02      5.12      0.91      0.31
+
+08:05:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:05:26 AM    dev8-0      1.60      0.00     39.20     24.50      0.00      1.50      1.12      0.18
+
+08:05:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:05:36 AM    dev8-0      1.30      0.00     26.40     20.31      0.00      1.00      0.77      0.10
+
+08:05:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:05:46 AM    dev8-0      2.80      0.00     43.20     15.43      0.01      2.32      0.86      0.24
+
+08:05:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:05:56 AM    dev8-0      1.90      0.00     43.20     22.74      0.00      0.74      0.63      0.12
+
+08:05:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:06:06 AM    dev8-0      2.00      0.00     50.40     25.20      0.01      2.90      1.55      0.31
+
+08:06:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:06:16 AM    dev8-0      1.30      0.00     28.00     21.54      0.00      2.77      2.54      0.33
+
+08:06:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:06:26 AM    dev8-0      3.50      0.00     50.40     14.40      0.01      3.74      0.69      0.24
+
+08:06:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:06:36 AM    dev8-0      1.80      0.00     38.40     21.33      0.01      3.61      2.17      0.39
+
+08:06:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:06:46 AM    dev8-0      1.30      0.00     31.20     24.00      0.00      2.00      1.85      0.24
+
+08:06:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:06:56 AM    dev8-0      1.80      0.00     24.80     13.78      0.00      0.94      0.61      0.11
+
+08:06:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:07:06 AM    dev8-0      1.80      0.00     38.40     21.33      0.00      1.00      0.78      0.14
+
+08:07:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:07:16 AM    dev8-0      1.70      0.00     37.60     22.12      0.00      0.94      0.76      0.13
+
+08:07:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:07:26 AM    dev8-0      1.40      0.00     23.20     16.57      0.00      3.00      1.79      0.25
+
+08:07:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:07:36 AM    dev8-0      2.40      0.00     48.80     20.33      0.00      1.00      0.58      0.14
+
+08:07:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:07:46 AM    dev8-0      1.60      0.00     39.20     24.50      0.00      0.81      0.56      0.09
+
+08:07:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:07:56 AM    dev8-0      1.90      0.00     41.60     21.89      0.00      0.68      0.58      0.11
+
+08:07:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:08:06 AM    dev8-0      3.90      0.00     64.00     16.41      0.01      1.85      0.46      0.18
+
+08:08:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:08:16 AM    dev8-0      3.50      0.00     74.40     21.26      0.01      2.23      1.74      0.61
+
+08:08:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:08:26 AM    dev8-0      1.90      0.00     36.80     19.37      0.00      1.00      0.74      0.14
+
+08:08:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:08:36 AM    dev8-0      1.70      0.00     35.20     20.71      0.00      0.94      0.59      0.10
+
+08:08:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:08:46 AM    dev8-0      3.50      0.00     58.40     16.69      0.01      2.03      0.46      0.16
+
+08:08:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:08:56 AM    dev8-0      1.20      0.00     21.60     18.00      0.00      0.92      0.75      0.09
+
+08:08:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:09:06 AM    dev8-0      1.80      0.00     39.20     21.78      0.00      0.67      0.61      0.11
+
+08:09:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:09:16 AM    dev8-0      1.60      0.00     32.80     20.50      0.00      2.00      1.75      0.28
+
+08:09:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:09:26 AM    dev8-0      3.50      0.00     48.00     13.71      0.01      1.63      0.66      0.23
+
+08:09:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:09:36 AM    dev8-0      1.30      0.00     39.20     30.15      0.00      0.92      0.69      0.09
+
+08:09:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:09:46 AM    dev8-0      1.50      0.00     32.00     21.33      0.00      2.27      2.07      0.31
+
+08:09:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:09:56 AM    dev8-0      2.90      0.00     45.60     15.72      0.00      1.31      0.41      0.12
+
+08:09:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:10:06 AM    dev8-0      2.60      0.00     60.00     23.08      0.00      1.31      0.88      0.23
+
+08:10:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:10:16 AM    dev8-0      1.30      0.00     33.60     25.85      0.00      0.92      0.85      0.11
+
+08:10:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:10:26 AM    dev8-0      1.90      0.00     40.00     21.05      0.00      0.74      0.63      0.12
+
+08:10:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:10:36 AM    dev8-0      4.20      0.00     56.00     13.33      0.01      1.69      0.29      0.12
+
+08:10:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:10:46 AM    dev8-0      1.60      0.00     33.60     21.00      0.00      0.94      0.50      0.08
+
+08:10:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:10:56 AM    dev8-0      1.30      0.00     35.20     27.08      0.00      1.62      1.62      0.21
+
+08:10:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:11:06 AM    dev8-0      3.80      0.00     58.40     15.37      0.01      1.71      0.50      0.19
+
+08:11:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:11:16 AM    dev8-0      1.50      0.00     28.80     19.20      0.00      0.67      0.53      0.08
+
+08:11:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:11:26 AM    dev8-0      1.90      0.00     37.60     19.79      0.00      1.42      1.05      0.20
+
+08:11:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:11:36 AM    dev8-0      1.30      0.00     36.00     27.69      0.00      0.92      0.69      0.09
+
+08:11:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:11:46 AM    dev8-0      3.00      0.00     48.00     16.00      0.01      2.47      0.57      0.17
+
+08:11:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:11:56 AM    dev8-0      1.70      0.00     33.57     19.76      0.00      0.88      0.53      0.09
+
+08:11:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:12:06 AM    dev8-0      2.00      0.00     48.80     24.40      0.00      1.00      0.75      0.15
+
+08:12:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:12:16 AM    dev8-0      1.90      0.00     35.20     18.53      0.00      1.42      1.16      0.22
+
+08:12:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:12:26 AM    dev8-0      1.80      0.00     37.60     20.89      0.00      0.78      0.56      0.10
+
+08:12:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:12:36 AM    dev8-0      1.70      0.00     32.00     18.82      0.00      0.94      0.59      0.10
+
+08:12:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:12:46 AM    dev8-0      1.40      0.00     32.80     23.43      0.00      0.93      0.71      0.10
+
+08:12:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:12:56 AM    dev8-0      2.50      0.00     47.20     18.88      0.00      1.20      0.60      0.15
+
+08:12:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:13:06 AM    dev8-0      1.80      0.00     40.00     22.22      0.00      0.89      0.56      0.10
+
+08:13:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:13:16 AM    dev8-0      3.60      0.00     76.00     21.11      0.01      1.61      1.17      0.42
+
+08:13:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:13:26 AM    dev8-0      4.00      0.00     61.60     15.40      0.01      1.95      0.53      0.21
+
+08:13:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:13:36 AM    dev8-0      1.20      0.00     26.40     22.00      0.00      1.17      0.92      0.11
+
+08:13:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:13:46 AM    dev8-0      1.50      0.00     31.20     20.80      0.00      1.13      0.87      0.13
+
+08:13:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:13:56 AM    dev8-0      1.70      0.00     34.40     20.24      0.00      1.65      1.41      0.24
+
+08:13:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:14:06 AM    dev8-0      3.40      0.00     70.40     20.71      0.00      1.21      0.59      0.20
+
+08:14:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:14:16 AM    dev8-0      1.10      0.00     27.20     24.73      0.00      3.27      3.09      0.34
+
+08:14:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:14:26 AM    dev8-0      1.80      0.00     30.40     16.89      0.00      2.00      1.56      0.28
+
+08:14:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:14:36 AM    dev8-0      3.20      0.00     46.40     14.50      0.00      1.53      0.44      0.14
+
+08:14:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:14:46 AM    dev8-0      1.90      0.00     43.20     22.74      0.00      2.42      1.74      0.33
+
+08:14:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:14:56 AM    dev8-0      1.10      0.00     18.40     16.73      0.00      2.82      2.82      0.31
+
+08:14:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:15:06 AM    dev8-0      1.70      0.00     43.20     25.41      0.01      3.00      1.71      0.29
+
+08:15:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:15:16 AM    dev8-0      3.10      0.00     47.20     15.23      0.00      1.42      0.55      0.17
+
+08:15:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:15:26 AM    dev8-0      1.70      0.00     40.80     24.00      0.00      1.88      1.65      0.28
+
+08:15:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:15:36 AM    dev8-0      1.10      0.00     24.00     21.82      0.00      1.18      1.09      0.12
+
+08:15:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:15:46 AM    dev8-0      1.90      0.00     37.60     19.79      0.00      1.16      0.74      0.14
+
+08:15:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:15:56 AM    dev8-0      1.90      0.00     40.80     21.47      0.00      1.74      1.42      0.27
+
+08:15:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:16:06 AM    dev8-0      2.20      0.00     56.80     25.82      0.00      1.14      0.86      0.19
+
+08:16:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:16:16 AM    dev8-0      2.90      0.00     42.40     14.62      0.01      1.72      0.72      0.21
+
+08:16:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:16:26 AM    dev8-0      1.70      0.00     26.40     15.53      0.00      0.88      0.71      0.12
+
+08:16:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:16:36 AM    dev8-0      1.90      0.00     36.80     19.37      0.00      1.11      0.89      0.17
+
+08:16:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:16:46 AM    dev8-0      1.50      0.00     38.40     25.60      0.00      0.93      0.53      0.08
+
+08:16:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:16:56 AM    dev8-0      2.70      0.00     34.40     12.74      0.00      1.63      0.48      0.13
+
+08:16:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:17:06 AM    dev8-0      1.80      0.00     44.80     24.89      0.00      1.22      0.89      0.16
+
+08:17:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:17:16 AM    dev8-0      1.80      0.00     36.00     20.00      0.00      1.72      1.56      0.28
+
+08:17:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:17:26 AM    dev8-0      3.00      0.00     51.20     17.07      0.00      1.43      0.40      0.12
+
+08:17:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:17:36 AM    dev8-0      1.40      0.00     27.20     19.43      0.00      1.14      0.71      0.10
+
+08:17:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:17:46 AM    dev8-0      1.60      0.00     36.00     22.50      0.01      3.12      2.69      0.43
+
+08:17:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:17:56 AM    dev8-0      2.00      0.00     40.80     20.40      0.00      1.30      1.10      0.22
+
+08:17:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:18:06 AM    dev8-0      3.70      0.00     68.00     18.38      0.01      2.51      1.05      0.39
+
+08:18:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:18:16 AM    dev8-0      3.30      0.00     72.80     22.06      0.00      1.39      1.18      0.39
+
+08:18:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:18:26 AM    dev8-0      1.70      0.00     36.00     21.18      0.00      0.94      0.76      0.13
+
+08:18:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:18:36 AM    dev8-0      3.90      0.00     53.60     13.74      0.01      2.77      0.67      0.26
+
+08:18:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:18:46 AM    dev8-0      1.70      0.00     39.20     23.06      0.00      0.82      0.47      0.08
+
+08:18:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:18:56 AM    dev8-0      1.20      0.00     20.80     17.33      0.00      2.33      2.00      0.24
+
+08:18:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:19:06 AM    dev8-0      1.80      0.00     46.40     25.78      0.00      1.83      1.17      0.21
+
+08:19:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:19:16 AM    dev8-0      2.70      0.00     44.00     16.30      0.00      0.93      0.56      0.15
+
+08:19:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:19:26 AM    dev8-0      2.10      0.00     52.00     24.76      0.00      1.29      0.95      0.20
+
+08:19:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:19:36 AM    dev8-0      1.40      0.00     29.60     21.14      0.00      1.07      1.00      0.14
+
+08:19:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:19:46 AM    dev8-0      2.90      0.00     40.80     14.07      0.01      3.31      0.90      0.26
+
+08:19:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:19:56 AM    dev8-0      2.00      0.00     39.20     19.60      0.00      1.05      0.80      0.16
+
+08:19:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:20:06 AM    dev8-0      2.30      0.00     70.40     30.61      0.00      2.09      1.43      0.33
+
+08:20:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:20:16 AM    dev8-0      1.20      0.00     26.40     22.00      0.00      2.42      2.33      0.28
+
+08:20:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:20:26 AM    dev8-0      4.20      0.00     55.20     13.14      0.02      5.12      1.24      0.52
+
+08:20:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:20:36 AM    dev8-0      2.40      0.00     44.80     18.67      0.00      1.25      0.83      0.20
+
+08:20:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:20:46 AM    dev8-0      1.50      0.00     34.40     22.93      0.00      2.00      1.60      0.24
+
+08:20:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:20:56 AM    dev8-0      2.30      0.00     28.80     12.52      0.00      1.52      0.96      0.22
+
+08:20:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:21:06 AM    dev8-0      1.90      0.00     49.60     26.11      0.00      1.26      0.79      0.15
+
+08:21:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:21:16 AM    dev8-0      1.80      0.00     35.20     19.56      0.00      0.72      0.67      0.12
+
+08:21:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:21:26 AM    dev8-0      1.60      0.00     41.60     26.00      0.00      1.56      1.25      0.20
+
+08:21:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:21:36 AM    dev8-0      2.20      0.00     33.60     15.27      0.01      6.32      3.14      0.69
+
+08:21:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:21:46 AM    dev8-0      1.50      0.00     29.60     19.73      0.00      1.13      0.80      0.12
+
+08:21:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:21:56 AM    dev8-0      1.90      0.00     41.60     21.89      0.00      0.74      0.58      0.11
+
+08:21:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:22:06 AM    dev8-0      3.60      0.00     60.80     16.89      0.01      1.78      0.50      0.18
+
+08:22:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:22:16 AM    dev8-0      1.50      0.00     34.40     22.93      0.01      8.00      4.27      0.64
+
+08:22:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:22:26 AM    dev8-0      1.60      0.00     32.80     20.50      0.00      1.44      1.44      0.23
+
+08:22:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:22:36 AM    dev8-0      1.80      0.00     32.80     18.22      0.00      1.50      0.83      0.15
+
+08:22:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:22:46 AM    dev8-0      1.60      0.00     32.00     20.00      0.00      1.44      1.00      0.16
+
+08:22:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:22:56 AM    dev8-0      1.70      0.00     36.80     21.65      0.00      0.94      0.71      0.12
+
+08:22:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:23:06 AM    dev8-0      1.60      0.00     34.40     21.50      0.00      1.94      1.19      0.19
+
+08:23:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:23:16 AM    dev8-0      5.20      0.00     94.40     18.15      0.01      1.85      0.58      0.30
+
+08:23:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:23:26 AM    dev8-0      1.70      0.00     44.00     25.88      0.00      1.00      0.76      0.13
+
+08:23:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:23:36 AM    dev8-0      1.40      0.00     30.40     21.71      0.00      0.71      0.50      0.07
+
+08:23:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:23:46 AM    dev8-0      5.30      0.00     67.20     12.68      0.01      1.96      0.34      0.18
+
+08:23:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:23:56 AM    dev8-0      3.10      0.00     56.00     18.06      0.00      1.32      0.68      0.21
+
+08:23:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:24:06 AM    dev8-0      4.20      0.00     72.80     17.33      0.01      3.48      1.07      0.45
+
+08:24:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:24:16 AM    dev8-0      1.10      0.00     25.57     23.27      0.00      1.27      1.09      0.12
+
+08:24:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:24:26 AM    dev8-0      1.40      0.00     32.83     23.43      0.00      3.07      3.00      0.42
+
+08:24:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:24:36 AM    dev8-0      3.00      0.00     45.55     15.20      0.01      2.10      0.87      0.26
+
+08:24:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:24:46 AM    dev8-0      3.40      0.00     51.20     15.06      0.01      2.41      1.00      0.34
+
+08:24:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:24:56 AM    dev8-0      1.30      0.00     31.20     24.00      0.00      0.85      0.69      0.09
+
+08:24:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:25:06 AM    dev8-0      1.40      0.00     33.60     24.00      0.00      1.64      1.00      0.14
+
+08:25:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:25:16 AM    dev8-0      1.20      0.00     26.40     22.00      0.00      1.83      1.75      0.21
+
+08:25:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:25:26 AM    dev8-0      3.60      0.00     60.80     16.89      0.02      5.86      1.67      0.60
+
+08:25:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:25:36 AM    dev8-0      1.30      0.00     32.00     24.62      0.00      1.69      1.08      0.14
+
+08:25:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:25:46 AM    dev8-0      1.20      0.00     28.80     24.00      0.00      0.83      0.67      0.08
+
+08:25:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:25:56 AM    dev8-0      2.00      0.00     36.80     18.40      0.00      0.95      0.45      0.09
+
+08:25:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:26:06 AM    dev8-0      2.90      0.00     59.20     20.41      0.00      1.59      1.14      0.33
+
+08:26:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:26:16 AM    dev8-0      1.10      0.00     25.60     23.27      0.00      2.55      2.45      0.27
+
+08:26:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:26:26 AM    dev8-0      1.40      0.00     32.80     23.43      0.00      0.71      0.64      0.09
+
+08:26:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:26:36 AM    dev8-0      1.90      0.00     30.40     16.00      0.00      0.79      0.32      0.06
+
+08:26:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:26:46 AM    dev8-0      2.20      0.00     46.40     21.09      0.00      1.91      1.45      0.32
+
+08:26:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:26:56 AM    dev8-0      3.10      0.00     52.80     17.03      0.00      1.00      0.35      0.11
+
+08:26:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:27:06 AM    dev8-0      4.80      0.00     67.20     14.00      0.01      1.44      0.33      0.16
+
+08:27:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:27:16 AM    dev8-0      3.30      0.00     52.80     16.00      0.01      2.30      0.61      0.20
+
+08:27:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:27:26 AM    dev8-0      1.90      5.60     20.80     13.89      0.01      4.89      3.05      0.58
+
+08:27:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:27:36 AM    dev8-0      1.30      0.00     36.00     27.69      0.00      1.54      1.38      0.18
+
+08:27:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:27:46 AM    dev8-0      1.40      0.00     33.60     24.00      0.00      1.29      1.07      0.15
+
+08:27:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:27:56 AM    dev8-0      4.00      0.00     62.40     15.60      0.01      1.32      0.38      0.15
+
+08:27:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:28:06 AM    dev8-0      1.70      0.00     40.00     23.53      0.00      0.76      0.59      0.10
+
+08:28:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:28:16 AM    dev8-0      3.10      0.00     70.40     22.71      0.01      2.84      2.10      0.65
+
+08:28:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:28:26 AM    dev8-0      3.50      0.00     56.00     16.00      0.01      1.94      1.03      0.36
+
+08:28:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:28:36 AM    dev8-0      2.20      0.00     45.60     20.73      0.00      0.91      0.55      0.12
+
+08:28:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:28:46 AM    dev8-0      1.20      0.00     28.00     23.33      0.00      0.75      0.75      0.09
+
+08:28:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:28:56 AM    dev8-0      1.10      0.00     18.40     16.73      0.00      0.91      0.73      0.08
+
+08:28:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:29:06 AM    dev8-0      2.30      0.00     50.40     21.91      0.00      1.91      1.00      0.23
+
+08:29:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:29:16 AM    dev8-0      2.30      0.00     48.00     20.87      0.00      0.96      0.57      0.13
+
+08:29:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:29:26 AM    dev8-0      1.60      0.00     35.20     22.00      0.00      0.81      0.56      0.09
+
+08:29:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:29:36 AM    dev8-0      2.70      0.00     38.40     14.22      0.01      3.96      1.19      0.32
+
+08:29:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:29:46 AM    dev8-0      1.40      0.00     35.20     25.14      0.00      1.07      0.93      0.13
+
+08:29:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:29:56 AM    dev8-0      2.40      0.00     46.40     19.33      0.00      1.21      0.88      0.21
+
+08:29:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:30:06 AM    dev8-0      3.50      0.00     68.80     19.66      0.01      2.23      0.86      0.30
+
+08:30:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:30:16 AM    dev8-0      1.20      0.00     26.40     22.00      0.00      0.92      0.83      0.10
+
+08:30:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:30:26 AM    dev8-0      1.50      0.00     33.60     22.40      0.00      1.73      1.60      0.24
+
+08:30:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:30:36 AM    dev8-0      3.20      0.00     62.40     19.50      0.00      1.34      0.44      0.14
+
+08:30:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:30:46 AM    dev8-0      3.50      0.00     47.20     13.49      0.01      2.91      0.40      0.14
+
+08:30:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:30:56 AM    dev8-0      1.40      0.00     34.40     24.57      0.01      5.07      4.00      0.56
+
+08:30:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:31:06 AM    dev8-0      1.50      0.00     34.40     22.93      0.00      0.80      0.53      0.08
+
+08:31:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:31:16 AM    dev8-0      3.50      0.00     52.80     15.09      0.02      4.43      0.83      0.29
+
+08:31:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:31:26 AM    dev8-0      1.50      0.00     26.40     17.60      0.00      1.00      0.87      0.13
+
+08:31:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:31:36 AM    dev8-0      1.30      0.00     30.40     23.38      0.00      1.15      0.92      0.12
+
+08:31:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:31:46 AM    dev8-0      1.40      0.00     32.00     22.86      0.00      0.86      0.64      0.09
+
+08:31:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:31:56 AM    dev8-0      3.40      0.00     45.60     13.41      0.01      2.18      0.76      0.26
+
+08:31:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:32:06 AM    dev8-0      1.90      0.00     55.20     29.05      0.00      1.47      1.21      0.23
+
+08:32:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:32:16 AM    dev8-0      1.30      0.00     31.20     24.00      0.00      2.00      1.92      0.25
+
+08:32:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:32:26 AM    dev8-0      2.90      0.00     44.80     15.45      0.00      1.24      0.38      0.11
+
+08:32:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:32:36 AM    dev8-0      2.40      0.00     43.20     18.00      0.00      1.17      0.58      0.14
+
+08:32:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:32:46 AM    dev8-0      1.10      0.00     28.00     25.45      0.00      1.00      0.82      0.09
+
+08:32:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:32:56 AM    dev8-0      1.40      0.00     32.00     22.86      0.00      0.79      0.71      0.10
+
+08:32:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:33:06 AM    dev8-0      2.90      0.00     45.60     15.72      0.01      2.41      1.45      0.42
+
+08:33:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:33:16 AM    dev8-0      4.20      0.00     94.40     22.48      0.00      0.83      0.48      0.20
+
+08:33:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:33:26 AM    dev8-0      1.30      0.00     31.20     24.00      0.00      1.85      1.69      0.22
+
+08:33:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:33:36 AM    dev8-0      3.40      0.00     48.80     14.35      0.01      1.88      0.56      0.19
+
+08:33:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:33:46 AM    dev8-0      1.30      0.00     28.80     22.15      0.00      1.00      0.69      0.09
+
+08:33:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:33:56 AM    dev8-0      2.60      0.00     51.20     19.69      0.01      3.65      0.96      0.25
+
+08:33:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:34:06 AM    dev8-0      1.90      0.00     59.20     31.16      0.00      1.26      0.89      0.17
+
+08:34:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:34:16 AM    dev8-0      2.40      0.00     41.60     17.33      0.00      1.17      0.67      0.16
+
+08:34:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:34:26 AM    dev8-0      1.40      0.00     31.20     22.29      0.00      1.86      1.50      0.21
+
+08:34:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:34:36 AM    dev8-0      2.20      0.00     43.20     19.64      0.00      0.95      0.55      0.12
+
+08:34:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:34:46 AM    dev8-0      1.80      0.00     33.60     18.67      0.00      1.11      0.72      0.13
+
+08:34:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:34:56 AM    dev8-0      1.50      0.00     32.80     21.87      0.00      1.47      1.20      0.18
+
+08:34:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:35:06 AM    dev8-0      1.20      0.00     28.00     23.33      0.00      1.00      0.75      0.09
+
+08:35:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:35:16 AM    dev8-0      2.40      0.00     51.20     21.33      0.00      1.58      0.96      0.23
+
+08:35:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:35:26 AM    dev8-0      3.10      0.00     49.60     16.00      0.00      1.35      0.35      0.11
+
+08:35:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:35:36 AM    dev8-0      1.40      0.00     30.40     21.71      0.00      1.00      0.64      0.09
+
+08:35:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:35:46 AM    dev8-0      1.00      0.00     24.80     24.80      0.00      1.50      1.50      0.15
+
+08:35:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:35:56 AM    dev8-0      2.80      0.00     49.60     17.71      0.01      2.82      1.54      0.43
+
+08:35:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:36:06 AM    dev8-0      1.90      0.00     44.80     23.58      0.00      1.53      1.37      0.26
+
+08:36:06 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:36:16 AM    dev8-0      1.40      0.00     32.00     22.86      0.00      1.29      1.07      0.15
+
+08:36:16 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:36:26 AM    dev8-0      1.80      0.00     24.80     13.78      0.01      3.28      1.94      0.35
+
+08:36:26 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:36:36 AM    dev8-0      2.40      0.00     54.40     22.67      0.00      0.88      0.46      0.11
+
+08:36:36 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:36:46 AM    dev8-0      1.10      0.00     28.00     25.45      0.00      0.91      0.73      0.08
+
+08:36:46 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:36:56 AM    dev8-0      1.40      0.00     32.00     22.86      0.00      1.57      1.00      0.14
+
+08:36:56 AM       DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+08:37:06 AM    dev8-0      2.60      0.00     40.00     15.38      0.00      1.58      0.50      0.13
+
+Average:          DEV       tps  rd_sec/s  wr_sec/s  avgrq-sz  avgqu-sz     await     svctm     %util
+Average:       dev8-0      2.16      0.02     41.54     19.25      0.00      1.83      0.95      0.20
