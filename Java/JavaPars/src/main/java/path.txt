@@ -1,0 +1,5 @@
+java -jar .\JavaPars-1.0-SNAPSHOT.jar TRACE C:/test/ log.txt
+java -jar .\JavaPars-1.0-SNAPSHOT.jar DEBUG C:/test/ log.txt
+java -jar .\JavaPars-1.0-SNAPSHOT.jar INFO C:/test/ log.txt
+java -jar .\JavaPars-1.0-SNAPSHOT.jar --help
+

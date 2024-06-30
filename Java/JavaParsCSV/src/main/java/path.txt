@@ -1,0 +1,2 @@
+java -jar .\JavaParsCSV-1.0-SNAPSHOT.jar ";" C:/test/ logsForCSV.csv
+java -jar .\JavaParsCSV-1.0-SNAPSHOT.jar --help
