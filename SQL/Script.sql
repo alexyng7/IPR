@@ -35,12 +35,14 @@ group by день, час
 order by день, час
 
 --Составьте запрос, берущий из таблицы tester_backup все записи, где фамилия 'Иванов Иван Иванович', и город 'Ижевск'
+EXPLAIN (ANALYZE, BUFFERS)
 select *
 from tester_backup tb 
 where fio = 'Иванов Иван Иванович' and city = 'Ижевск'
 
 
 --Сделайте то же самое с таблицей tester. Проанализируйте планы запроса в обоих случаях.
+EXPLAIN (ANALYZE, BUFFERS)
 select *
 from tester 
 where fio = 'Иванов Иван Иванович' and city = 'Ижевск'
@@ -75,32 +77,46 @@ ORDER BY
     from pg_stat_statements
     where calls > 100
     order by max_time desc
-    limit 3
+    limit 20
     
-    explain UPDATE shedlock SET lock_until = timezone($4, CURRENT_TIMESTAMP) + cast($1 as interval), 
-    locked_at = timezone($5, CURRENT_TIMESTAMP), locked_by = $2 WHERE shedlock.name = $3 AND shedlock.lock_until <= timezone($6, CURRENT_TIMESTAMP)
+    EXPLAIN (ANALYZE, BUFFERS)
+    select * from tester_backup tb
     
+  
+  	EXPLAIN (ANALYZE, BUFFERS)
+	select * from tester_backup tb
+	where city='Ижевск' and fio='Иванов Иван Иванович'	
+  	 
+  	
+  	select * from pg_stats where tablename = 'tester_backup'
+  	
+  	select * from pg_indexes where tablename = 'tester_backup'
+  	
+  	CREATE INDEX tester_backup2 ON public.tester_backup USING btree (city)
+    CREATE INDEX tester_backup2 ON public.tester_backup USING btree (fio)
+    
+  	
            
 --Откройте таблицу tester_backup, добавьте туда две тысячи тестировщиков с рандомным доходом с помощью цикла.
 
 
-do $$
-begin
-for i in 1 .. 20 loop
-insert into public.tester_backup  (id, city, fio, income) values((select max(id) from tester_backup tb)+1, 'Кукуево', 'Василий Иванович Пупкин', round(random()*(50000-25000+1))+1);
-end loop;
-end;
-$$;
-
- select count(id)
- from tester_backup tb
- where city = 'Кукуево' and fio = 'Василий Иванович Пупкин'
- 
- 
- select *
- from tester_backup tb
- where city = 'Кукуево' and fio = 'Василий Иванович Пупкин' 
- 
+	do $$
+	begin
+	for i in 1 .. 20 loop
+	insert into public.tester_backup  (id, city, fio, income) values((select max(id) from tester_backup tb)+1, 'Кукуево', 'Василий Иванович Пупкин', round(random()*(50000-25000+1))+1);
+	end loop;
+	end;
+	$$;
+	
+	 select count(id)
+	 from tester_backup tb
+	 where city = 'Кукуево' and fio = 'Василий Иванович Пупкин'
+	 
+	 
+	 select *
+	 from tester_backup tb
+	 where city = 'Кукуево' and fio = 'Василий Иванович Пупкин' 
+	 
  
     
     
