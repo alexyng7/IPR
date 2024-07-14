@@ -35,8 +35,6 @@ public class MainController {
             String currency;
             BigDecimal maxLimit;
 
-
-
             char firstDigit = clintId.charAt(0); //извлекаем первый символ Id
 
             if (firstDigit == '8') {
